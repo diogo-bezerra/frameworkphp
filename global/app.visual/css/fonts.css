@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+	font-family: "blue";
+	src: url('../fonts/blue.ttf');
+}
+
+@font-face {
+  font-family: 'Yanone Kaffeesatz';
+  font-style: normal;
+  src:url('../fonts/Yanone.ttf');
+}

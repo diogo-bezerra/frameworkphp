@@ -1,0 +1,21 @@
+{logo}
+
+<font color='#00458A'><b>Reserva de hospedagem</b></font>
+<hr width='300px' align='left' />
+
+Olá {nome}. Essa é uma mensagem automática do sistema de reserva de hospedagem da AMEPE referente ao pedido realizado em {dataRegistro}.
+
+Para dar continuidade ao seu processo de reserva você deve realizar o pagamento clicando diretamente no link abaixo
+
+<a href='{link_pag}' target='_blank'>Clique aqui para realizar o pagamento </a>
+
+ou acessando a Área do Associado através do site <a href='htp://www.amepe.com.br' target='_blank'><font color='#0066CC'>www.amepe.com.br</font></a>
+
+O pagamento deverá ser realizado até {dataVenc}. Após o vencimento a reserva será cancelada automaticamente pelo sistema.
+
+Se já realizou o pagamento, por favor desconsidere essa mensagem.
+
+Importante: O sistema de pagamento online analisará cada transação podendo levar algum tempo antes de confirmar o pagamento.
+
+<hr/>
+<font size='-1'><a href='http://www.amepe.com.br' target='_blank'><font color='#0066CC'><b>www.amepe.com.br</b></font></a></font>       	

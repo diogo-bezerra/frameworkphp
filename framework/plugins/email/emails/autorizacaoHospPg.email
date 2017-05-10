@@ -1,0 +1,11 @@
+{logo}
+
+Essa é uma mensagem automática de confirmação de pagamento da reserva de hospedagem numero {idHosp}.
+
+Clique no link abaixo para imprimir a autorização de hospedagem
+
+<a href="{linkAut}">Imprimir Autorização</a>
+
+Você também pode imprimir essa autorização acessando a Área do Associado em <a href="http://www.amepe.com.br">www.amepe.com.br</a>
+<hr />
+SEDE ADMINISTRATIVA: (81) 3224-3251

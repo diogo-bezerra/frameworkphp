@@ -1,0 +1,5887 @@
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Abelardo Tadeu da Silva Santos 
+N:;Abelardo Tadeu da Silva Santos;;;
+
+EMAIL;type=INTERNET,pref:abelardo.tadeu@tjpe.jus.br
+TEL;type=CELL,voice:81998050785
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Abérides Nicéas de Albuquerque Filho 
+N:;Abérides Nicéas de Albuquerque Filho;;;
+
+EMAIL;type=INTERNET,pref:aberidesniceas@yahoo.com.br
+TEL;type=CELL,voice:81996948001
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Abner Apolinário da Silva 
+N:;Abner Apolinário da Silva;;;
+
+EMAIL;type=INTERNET,pref:cilabner@uol.com.br
+TEL;type=CELL,voice:81999659797
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Adalberto de Oliveira Melo 
+N:;Adalberto de Oliveira Melo;;;
+
+EMAIL;type=INTERNET,pref:ao.melo@globo.com
+TEL;type=CELL,voice:81999131688
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Adeildo Lemos Sá Cruz 
+N:;(Aps) Adeildo Lemos Sá Cruz;;;
+
+EMAIL;type=INTERNET,pref:guapitomba49@gmail.com
+TEL;type=CELL,voice:81999779329
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Adeildo Nunes 
+N:;(Aps) Adeildo Nunes;;;
+
+EMAIL;type=INTERNET,pref:adeildo_nunes@terra.com.br
+TEL;type=CELL,voice:81999170711
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Adelson Freitas de Andrade Júnior 
+N:;Adelson Freitas de Andrade Júnior;;;
+
+EMAIL;type=INTERNET,pref:adelsonfreitas@yahoo.com.br
+TEL;type=CELL,voice:81971170010
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Adilson Agrícola Nunes 
+N:;(Aps) Adilson Agrícola Nunes;;;
+
+EMAIL;type=INTERNET,pref:adilson_juiz@yahoo.com.br
+TEL;type=CELL,voice:81999450507
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Adriana Cintra Coêlho 
+N:;Adriana Cintra Coêlho;;;
+
+EMAIL;type=INTERNET,pref:acintracoelho@yahoo.com.br
+TEL;type=CELL,voice:81991366615
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Adriana Karla Souza Mendonça de Oliveira 
+N:;Adriana Karla Souza Mendonça de Oliveira;;;
+
+EMAIL;type=INTERNET,pref:adrianakarlamendonca@gmail.com
+TEL;type=CELL,voice:81996331179
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Adriano Mariano de Oliveira 
+N:;Adriano Mariano de Oliveira;;;
+
+EMAIL;type=INTERNET,pref:adr_oliv@hotmail.com
+TEL;type=CELL,voice:81999685397
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Aécio José Maranhão da Fonte 
+N:;(Aps) Aécio José Maranhão da Fonte;;;
+
+TEL;type=CELL,voice:81991130081
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ailton Alfredo de Souza 
+N:;Ailton Alfredo de Souza;;;
+
+EMAIL;type=INTERNET,pref:ailtonalfredo@uol.com.br
+TEL;type=CELL,voice:81981212901
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ailton Soares Pereira Lima 
+N:;Ailton Soares Pereira Lima;;;
+
+EMAIL;type=INTERNET,pref:asoares@hotlink.com.br
+TEL;type=CELL,voice:81999864800
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Airton Mozart Valadares Vieira Pires 
+N:;Airton Mozart Valadares Vieira Pires;;;
+
+EMAIL;type=INTERNET,pref:mozartvaladares@uol.com.br
+TEL;type=CELL,voice:81982192393
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Albérico Agrello Neto 
+N:;Albérico Agrello Neto;;;
+
+EMAIL;type=INTERNET,pref:albericoagrello@hotmail.com
+TEL;type=CELL,voice:81998136903
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Alberto Nogueira Virgínio 
+N:;Alberto Nogueira Virgínio;;;
+
+EMAIL;type=INTERNET,pref:dranv@hotlink.com.br
+TEL;type=CELL,voice:81996016301
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Aldemir Alves de Lima 
+N:;Aldemir Alves de Lima;;;
+
+TEL;type=CELL,voice:81986102289
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Aldileide Paes Miranda Galindo 
+N:;Aldileide Paes Miranda Galindo;;;
+
+EMAIL;type=INTERNET,pref:aldileide@rce.neoline.com.br
+TEL;type=CELL,voice:81999615741
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Alexandre Pinto de Albuquerque 
+N:;Alexandre Pinto de Albuquerque;;;
+
+EMAIL;type=INTERNET,pref:alexandre_pinto@globo.com
+TEL;type=CELL,voice:81999919414
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Alexandre Sena de Almeida 
+N:;(Aps) Alexandre Sena de Almeida;;;
+
+EMAIL;type=INTERNET,pref:alsena@hotlink.com.br
+TEL;type=CELL,voice:81981399800
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Alfredo Hermes Barbosa de Aguiar Neto 
+N:;Alfredo Hermes Barbosa de Aguiar Neto;;;
+
+EMAIL;type=INTERNET,pref:alfredo.2hermes@hotmail.com
+TEL;type=CELL,voice:81999081633
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Alfredo Sérgio Magalhães Jambo 
+N:;Alfredo Sérgio Magalhães Jambo;;;
+
+EMAIL;type=INTERNET,pref:alfredojambo@hotmail.com
+TEL;type=CELL,voice:81999606531
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Aline Cardoso dos Santos 
+N:;Aline Cardoso dos Santos;;;
+
+EMAIL;type=INTERNET,pref:marcel100@uol.com.br
+TEL;type=CELL,voice:81995662777
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Alípio Carvalho Filho 
+N:;(Aps) Alípio Carvalho Filho;;;
+
+EMAIL;type=INTERNET,pref:alipiocfilho@yahoo.com.br
+TEL;type=CELL,voice:81999171048
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Altamir Cléreb de Vasconcelos Santos 
+N:;Altamir Cléreb de Vasconcelos Santos;;;
+
+EMAIL;type=INTERNET,pref:altamir.santos@hotmail.com
+TEL;type=CELL,voice:81988037972
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Álvaro Mariano da Penha 
+N:;Álvaro Mariano da Penha;;;
+
+EMAIL;type=INTERNET,pref:alvaropenha@uol.com.br
+TEL;type=CELL,voice:81987991155
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Alzira Marcelino de Oliveira 
+N:;Alzira Marcelino de Oliveira;;;
+
+EMAIL;type=INTERNET,pref:magdalavale@hotmail.com
+TEL;type=CELL,voice:81999113957
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Amaro José de Araújo 
+N:;(Aps) Amaro José de Araújo;;;
+
+EMAIL;type=INTERNET,pref:amaro.aja@gmail
+TEL;type=CELL,voice:81999963007
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ambrósio Agrícola Nunes 
+N:;Ambrósio Agrícola Nunes;;;
+
+EMAIL;type=INTERNET,pref:ambrosioagricola@hotmail.com
+TEL;type=CELL,voice:81999529010
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ana Carolina Avellar Diniz 
+N:;Ana Carolina Avellar Diniz;;;
+
+EMAIL;type=INTERNET,pref:carol_avellar@yahoo.com.br
+TEL;type=CELL,voice:81999662011
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ana Cristina de Freitas Mota 
+N:;Ana Cristina de Freitas Mota;;;
+
+EMAIL;type=INTERNET,pref:anaouabd@hotmail.com
+TEL;type=CELL,voice:81988016796
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ana Emília Correia de Oliveira Melo 
+N:;Ana Emília Correia de Oliveira Melo;;;
+
+EMAIL;type=INTERNET,pref:anaemiliamelo@gmail.com
+TEL;type=CELL,voice:81999750490
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ana Maria da Silva 
+N:;Ana Maria da Silva;;;
+
+EMAIL;type=INTERNET,pref:anasilv7@terra.com.br
+TEL;type=CELL,voice:81999496099
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ana Maria Wanderley Freire 
+N:;Ana Maria Wanderley Freire;;;
+
+EMAIL;type=INTERNET,pref:anmfr@terra.com.br
+TEL;type=CELL,voice:81999739559
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ana Marques Veras 
+N:;Ana Marques Veras;;;
+
+EMAIL;type=INTERNET,pref:amveras27@ig.com.br
+TEL;type=CELL,voice:87999913387
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ana Paula Costa de Almeida 
+N:;Ana Paula Costa de Almeida;;;
+
+EMAIL;type=INTERNET,pref:anapaulacas90@gmail.com
+TEL;type=CELL,voice:81991520555
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ana Paula Pinheiro Bandeira Duarte Vieira 
+N:;Ana Paula Pinheiro Bandeira Duarte Vieira;;;
+
+EMAIL;type=INTERNET,pref:anapauladuartevieira@hotmail.com
+TEL;type=CELL,voice:81992127136
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ana Virgínia da Costa Carvalho Albuquerque 
+N:;Ana Virgínia da Costa Carvalho Albuquerque;;;
+
+EMAIL;type=INTERNET,pref:vika.carvalho@zipmail.com.br
+TEL;type=CELL,voice:81999735753
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Anamaria de Farias Borba Lima Silva 
+N:;Anamaria de Farias Borba Lima Silva;;;
+
+EMAIL;type=INTERNET,pref:anaborba@uol.com.br
+TEL;type=CELL,voice:81994522013
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:André Carneiro de Albuquerque Santana 
+N:;André Carneiro de Albuquerque Santana;;;
+
+EMAIL;type=INTERNET,pref:andre@hotlink.com.br
+TEL;type=CELL,voice:81993124266
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:André Rafael de Paula Batista Elihimas 
+N:;André Rafael de Paula Batista Elihimas;;;
+
+EMAIL;type=INTERNET,pref:andreelihimas@bol.com.br
+TEL;type=CELL,voice:81999960088
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) André Rui de Andrade Albuquerque 
+N:;(Aps) André Rui de Andrade Albuquerque;;;
+
+EMAIL;type=INTERNET,pref:prandrerui@hotmail.com
+TEL;type=CELL,voice:81988727777
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:André Simões Nunes 
+N:;André Simões Nunes;;;
+
+TEL;type=CELL,voice:81999289668
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Andréa Calado da Cruz 
+N:;Andréa Calado da Cruz;;;
+
+EMAIL;type=INTERNET,pref:andreacaladocruz@gmail.com
+TEL;type=CELL,voice:81996740707
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Andréa Duarte Gomes 
+N:;Andréa Duarte Gomes;;;
+
+EMAIL;type=INTERNET,pref:andrea.duarte@tjpe.jus.br
+TEL;type=CELL,voice:81999963151
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Andréa Epaminondas Tenório de Brito 
+N:;Andréa Epaminondas Tenório de Brito;;;
+
+EMAIL;type=INTERNET,pref:aetbrito@hotmail.com
+TEL;type=CELL,voice:81996961200
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Andréa Rose Borges Cartaxo 
+N:;Andréa Rose Borges Cartaxo;;;
+
+EMAIL;type=INTERNET,pref:andrearose.cartaxo@gmail.com
+TEL;type=CELL,voice:81999144877
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Andrian de Lucena Galindo 
+N:;Andrian de Lucena Galindo;;;
+
+EMAIL;type=INTERNET,pref:andriangalindo@yahoo.com.br
+TEL;type=CELL,voice:87988089669
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ane de Sena Lins 
+N:;Ane de Sena Lins;;;
+
+EMAIL;type=INTERNET,pref:ane.lins@tjpe.jus.br
+TEL;type=CELL,voice:81999813383
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ângela Cristina de Norões Lins Cavalcanti 
+N:;Ângela Cristina de Norões Lins Cavalcanti;;;
+
+EMAIL;type=INTERNET,pref:angela.cristina@tjpe.jus.br
+TEL;type=CELL,voice:81994992346
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ângela Maria Teixeira de Carvalho Mello 
+N:;Ângela Maria Teixeira de Carvalho Mello;;;
+
+EMAIL;type=INTERNET,pref:angelamtcm@yahoo.com.br
+TEL;type=CELL,voice:81999674838
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Anna Paula Borges Coutinho 
+N:;Anna Paula Borges Coutinho;;;
+
+EMAIL;type=INTERNET,pref:annapaulaborgescoutinho@yahoo.com.br
+TEL;type=CELL,voice:81999996659
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Anna Regina Lemos Robalinho de Barros 
+N:;Anna Regina Lemos Robalinho de Barros;;;
+
+EMAIL;type=INTERNET,pref:anna01@uol.com.br
+TEL;type=CELL,voice:81991826649
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Antenor Cardoso Soares Júnior 
+N:;Antenor Cardoso Soares Júnior;;;
+
+EMAIL;type=INTERNET,pref:antenorcardoso@yahoo.com.br
+TEL;type=CELL,voice:81996348216
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Antônio Carlos dos Santos 
+N:;Antônio Carlos dos Santos;;;
+
+EMAIL;type=INTERNET,pref:acsanto1948@hotmail.com
+TEL;type=CELL,voice:81999469378
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Antônio de Jesus Chaves da Costa 
+N:;(Aps) Antônio de Jesus Chaves da Costa;;;
+
+EMAIL;type=INTERNET,pref:antoniojesuscc@hotmail.com
+TEL;type=CELL,voice:81994514997
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Antônio de Melo e Lima 
+N:;Antônio de Melo e Lima;;;
+
+EMAIL;type=INTERNET,pref:antonio.lima@tjpe.jus.br
+TEL;type=CELL,voice:81996720127
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Antônio de Pádua Casado de Araújo Cavalcanti 
+N:;(Aps) Antônio de Pádua Casado de Araújo Cavalcanti;;;
+
+EMAIL;type=INTERNET,pref:dcamarot@tjpe.gov.br
+TEL;type=CELL,voice:81986353504
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Antônio de Vasconcelos e Silva 
+N:;(Aps) Antônio de Vasconcelos e Silva;;;
+
+TEL;type=CELL,voice:81999225035
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Antônio Fernando Araújo Martins 
+N:;Antônio Fernando Araújo Martins;;;
+
+EMAIL;type=INTERNET,pref:fernandomartins2003@gmail.com
+TEL;type=CELL,voice:81992720737
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Antônio Floriano da Silva Filho 
+N:;(Aps) Antônio Floriano da Silva Filho;;;
+
+EMAIL;type=INTERNET,pref:florianoafsf@hotmail.com
+TEL;type=CELL,voice:81999736880
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Antônio Medeiros de Souza 
+N:;(Aps) Antônio Medeiros de Souza;;;
+
+EMAIL;type=INTERNET,pref:totamedeiros@hotmail.com
+TEL;type=CELL,voice:81999736943
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Aquino de Farias Reis 
+N:;(Aps) Aquino de Farias Reis;;;
+
+EMAIL;type=INTERNET,pref:aquinofariasreis@yahoo.com.br
+TEL;type=CELL,voice:81999659695
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Aristótelles de Siqueira Campos 
+N:;(Aps) Aristótelles de Siqueira Campos;;;
+
+TEL;type=CELL,voice:81987358707
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Armando Tavares da Silva 
+N:;(Aps) Armando Tavares da Silva;;;
+
+EMAIL;type=INTERNET,pref:armando_tavares@hotmail.com
+TEL;type=CELL,voice:87996090116
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Arnóbio Amorim Araújo Júnior 
+N:;Arnóbio Amorim Araújo Júnior;;;
+
+EMAIL;type=INTERNET,pref:arnobiojuiz@gmail.com
+TEL;type=CELL,voice:81996590259
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Arthur Pio dos Santos Neto 
+N:;(Aps) Arthur Pio dos Santos Neto;;;
+
+EMAIL;type=INTERNET,pref:apius@hotmail.com
+TEL;type=CELL,voice:81991527705
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Artur Teixeira de Carvalho Neto 
+N:;Artur Teixeira de Carvalho Neto;;;
+
+EMAIL;type=INTERNET,pref:atcn@amb.com.br
+TEL;type=CELL,voice:81981638080
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Aubry de Barros Lima Filho 
+N:;Aubry de Barros Lima Filho;;;
+
+TEL;type=CELL,voice:81988782452
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Augusto Napoleão Sampaio Angelim 
+N:;Augusto Napoleão Sampaio Angelim;;;
+
+EMAIL;type=INTERNET,pref:hildinho@ig.com.br
+TEL;type=CELL,voice:81996066933
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Auziênio de Carvalho Cavalcanti 
+N:;Auziênio de Carvalho Cavalcanti;;;
+
+EMAIL;type=INTERNET,pref:auzienio@globo.com
+TEL;type=CELL,voice:81999720006
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Blanche Maymone Pontes Matos 
+N:;Blanche Maymone Pontes Matos;;;
+
+EMAIL;type=INTERNET,pref:blanche.matos@gmail.com
+TEL;type=CELL,voice:81988671525
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Brasílio Antônio Guerra 
+N:;Brasílio Antônio Guerra;;;
+
+EMAIL;type=INTERNET,pref:brasilio.guerra@tjpe.jus.br 
+TEL;type=CELL,voice:81991224589
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Brenda Azevedo Paes Barreto Teixeira 
+N:;Brenda Azevedo Paes Barreto Teixeira;;;
+
+EMAIL;type=INTERNET,pref:brenda_paes@hotmail.com
+TEL;type=CELL,voice:81996620003
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Breno Duarte Ribeiro de Oliveira 
+N:;Breno Duarte Ribeiro de Oliveira;;;
+
+EMAIL;type=INTERNET,pref:duartebreno@bol.com.br
+TEL;type=CELL,voice:81991612620
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Carla Adriana de Assis Silva Araújo 
+N:;Carla Adriana de Assis Silva Araújo;;;
+
+EMAIL;type=INTERNET,pref:carlassis@uol.com.br
+TEL;type=CELL,voice:87988370815
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Carla de Vasconcellos Rodrigues 
+N:;Carla de Vasconcellos Rodrigues;;;
+
+EMAIL;type=INTERNET,pref:vasconcellos.carla0903@gmail.com
+TEL;type=CELL,voice:81996460707
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Carlos Antonio Sobreira Lopes 
+N:;Carlos Antonio Sobreira Lopes;;;
+
+EMAIL;type=INTERNET,pref:carlossobreira08@hotmail.com
+TEL;type=CELL,voice:81997732222
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Carlos Eugênio de Castro Montenegro 
+N:;Carlos Eugênio de Castro Montenegro;;;
+
+EMAIL;type=INTERNET,pref:montenegro.1@uol.com.br
+TEL;type=CELL,voice:81996661130
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Carlos Gean Alves dos Santos 
+N:;Carlos Gean Alves dos Santos;;;
+
+EMAIL;type=INTERNET,pref:c.gean@hotmail.com
+TEL;type=CELL,voice:83988038886
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Carlos Gonçalves de Andrade Filho 
+N:;Carlos Gonçalves de Andrade Filho;;;
+
+EMAIL;type=INTERNET,pref:cgandradefilho@yahoo.com.br
+TEL;type=CELL,voice:81999737212
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Carlos Magno Cysneiros Sampaio 
+N:;Carlos Magno Cysneiros Sampaio;;;
+
+EMAIL;type=INTERNET,pref:cmagnocs@uol.com.br
+TEL;type=CELL,voice:81999630711
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Carlos Neves da Franca Neto Júnior 
+N:;Carlos Neves da Franca Neto Júnior;;;
+
+EMAIL;type=INTERNET,pref:cfranca87@gmail.com
+TEL;type=CELL,voice:83987682332
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Catarina Vila-Nova Alves de Lima 
+N:;Catarina Vila-Nova Alves de Lima;;;
+
+EMAIL;type=INTERNET,pref:catarinavnova@hotmail.com
+TEL;type=CELL,voice:81999620082
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Cátia Luciene Laranjeira de Sá 
+N:;Cátia Luciene Laranjeira de Sá;;;
+
+EMAIL;type=INTERNET,pref:catia.laranjeira@yahoo.com.br
+TEL;type=CELL,voice:81999699637
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Célia Gomes de Morais 
+N:;Célia Gomes de Morais;;;
+
+EMAIL;type=INTERNET,pref:celiamorais@globo.com
+TEL;type=CELL,voice:81998265831
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Christiana Brito Caribé da Costa Pinto 
+N:;Christiana Brito Caribé da Costa Pinto;;;
+
+EMAIL;type=INTERNET,pref:cristiana.caribe@tjpe.jus.br@hotmail.com
+TEL;type=CELL,voice:81991780268
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Cícero Bittencourt de Magalhães 
+N:;Cícero Bittencourt de Magalhães;;;
+
+EMAIL;type=INTERNET,pref:cicerobm@uol.com.br
+TEL;type=CELL,voice:81999606521
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Cícero Cardoso Guedes Alcoforado 
+N:;(Aps) Cícero Cardoso Guedes Alcoforado;;;
+
+TEL;type=CELL,voice:21991186921
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Cícero Everaldo Ferreira Silva 
+N:;Cícero Everaldo Ferreira Silva;;;
+
+EMAIL;type=INTERNET,pref:cicero.everaldo@tjpe.jus.br
+TEL;type=CELL,voice:87988060152
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Cladisson Ferreira Pinto 
+N:;(Aps) Cladisson Ferreira Pinto;;;
+
+EMAIL;type=INTERNET,pref:ferreirapintoadvogados170@gmail.com
+TEL;type=CELL,voice:81999830474
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Clara Maria de Lima Callado 
+N:;Clara Maria de Lima Callado;;;
+
+EMAIL;type=INTERNET,pref:clara_callado@yahoo.com.br
+TEL;type=CELL,voice:81999758131
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Cláudio Avelino de Andrade 
+N:;(Aps) Cláudio Avelino de Andrade;;;
+
+EMAIL;type=INTERNET,pref:avelinoc@oi.com.br
+TEL;type=CELL,voice:81999490790
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Cláudio da Cunha Cavalcanti 
+N:;Cláudio da Cunha Cavalcanti;;;
+
+EMAIL;type=INTERNET,pref:claudioh3c@yahoo.com.br
+TEL;type=CELL,voice:81988086168
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Cláudio Jean Nogueira Virgínio 
+N:;Cláudio Jean Nogueira Virgínio;;;
+
+TEL;type=CELL,voice:81991691097
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Cláudio Malta de Sá Barretto Sampaio 
+N:;Cláudio Malta de Sá Barretto Sampaio;;;
+
+EMAIL;type=INTERNET,pref:claudiomssampaio@gmail.com
+TEL;type=CELL,voice:81992482639
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Clélio Farias Guerra 
+N:;Clélio Farias Guerra;;;
+
+EMAIL;type=INTERNET,pref:clelio.guerra@tjpe.jus.br
+TEL;type=CELL,voice:81999743090
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Cleodon Eleno dos Santos 
+N:;(Aps) Cleodon Eleno dos Santos;;;
+
+EMAIL;type=INTERNET,pref:cleodoneleno@amepe.com.br
+TEL;type=CELL,voice:81999723797
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Clicério Bezerra e Silva 
+N:;Clicério Bezerra e Silva;;;
+
+EMAIL;type=INTERNET,pref:clicerio@bol.com.br
+TEL;type=CELL,voice:81999719922
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Cristiane Gouveia de Barros 
+N:;(Aps) Cristiane Gouveia de Barros;;;
+
+EMAIL;type=INTERNET,pref:gouveial@uol.com.br
+TEL;type=CELL,voice:81997660043
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Cristiano Henrique de Freitas Araújo 
+N:;Cristiano Henrique de Freitas Araújo;;;
+
+TEL;type=CELL,voice:81997013129
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Cristina Reina Montenegro de Albuquerque 
+N:;Cristina Reina Montenegro de Albuquerque;;;
+
+EMAIL;type=INTERNET,pref:cristinareina@uol.com.br
+TEL;type=CELL,voice:81988135052
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Cristóvão Tenório de Almeida 
+N:;Cristóvão Tenório de Almeida;;;
+
+EMAIL;type=INTERNET,pref:cristovao.tenorio@tjpe.jus.br
+TEL;type=CELL,voice:81999544981
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Crystiane Maria do Nascimento Rocha 
+N:;Crystiane Maria do Nascimento Rocha;;;
+
+EMAIL;type=INTERNET,pref:rochacrys@hotmail.com
+TEL;type=CELL,voice:81999610044
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Daisy Maria de Andrade Costa Pereira 
+N:;Daisy Maria de Andrade Costa Pereira;;;
+
+EMAIL;type=INTERNET,pref:daisy-pereira@uol.com.br
+TEL;type=CELL,voice:81999133911
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Damião Severiano de Sousa 
+N:;Damião Severiano de Sousa;;;
+
+EMAIL;type=INTERNET,pref:damiaoseveriano@hotmail.com
+TEL;type=CELL,voice:81996731410
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Daniel Silva Paiva 
+N:;Daniel Silva Paiva;;;
+
+TEL;type=CELL,voice:81995900138
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Daniela Rocha Gomes 
+N:;Daniela Rocha Gomes;;;
+
+EMAIL;type=INTERNET,pref:danirocha5@hotmail.com
+TEL;type=CELL,voice:87996193331
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Danielle Christine Silva Melo Burichel 
+N:;Danielle Christine Silva Melo Burichel;;;
+
+EMAIL;type=INTERNET,pref:danielleburichel@yahoo.com.br
+TEL;type=CELL,voice:81991414815
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Danilo Felix Azevedo 
+N:;Danilo Felix Azevedo;;;
+
+EMAIL;type=INTERNET,pref:danilofelixazevedo@hotmail.com
+TEL;type=CELL,voice:81996348433
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Danilo Galvão Martiniano Lins 
+N:;(Aps) Danilo Galvão Martiniano Lins;;;
+
+EMAIL;type=INTERNET,pref:linsmartiniano@hotmail.com
+TEL;type=CELL,voice:81999736852
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Diego Vieira Lima 
+N:;Diego Vieira Lima;;;
+
+EMAIL;type=INTERNET,pref:diegolimamm@gmail.com
+TEL;type=CELL,voice:81982900041
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Dilza Christine Lundgren de Barros 
+N:;Dilza Christine Lundgren de Barros;;;
+
+EMAIL;type=INTERNET,pref:dilza.lundgren91@gmail.com
+TEL;type=CELL,voice:81997128342
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Diógenes Portela Saboia Soares Torres 
+N:;Diógenes Portela Saboia Soares Torres;;;
+
+EMAIL;type=INTERNET,pref:diogenesportelasst@hotmail.com
+TEL;type=CELL,voice:81979159027
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Djaci Salustiano de Lima 
+N:;Djaci Salustiano de Lima;;;
+
+EMAIL;type=INTERNET,pref:djaci.lima@tjpe.jus.br
+TEL;type=CELL,voice:87988631538
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Djalma Andrelino Nogueira Júnior 
+N:;Djalma Andrelino Nogueira Júnior;;;
+
+EMAIL;type=INTERNET,pref:djalma.nogueira@uol.com.br
+TEL;type=CELL,voice:81987227915
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Douglas José da Silva 
+N:;Douglas José da Silva;;;
+
+EMAIL;type=INTERNET,pref:douglas.silva.pe@gmail.com
+TEL;type=CELL,voice:81999023583
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Draulternani Melo Pantaleão 
+N:;Draulternani Melo Pantaleão;;;
+
+EMAIL;type=INTERNET,pref:draulternani.pantaleao@tjpe.jus.br
+TEL;type=CELL,voice:87996291877
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Dulceana Maciel de Oliveira 
+N:;Dulceana Maciel de Oliveira;;;
+
+EMAIL;type=INTERNET,pref:dmoliveira9@hotmail.com.br
+TEL;type=CELL,voice:81999480651
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Edgar Sobreira de Moura 
+N:;(Aps) Edgar Sobreira de Moura;;;
+
+TEL;type=CELL,voice:81999597814
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Edilson Rodrigues Moura 
+N:;Edilson Rodrigues Moura;;;
+
+EMAIL;type=INTERNET,pref:edilsonmoura2@uol.com.br
+TEL;type=CELL,voice:81988308563
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Edinaldo Aureliano de Lacerda 
+N:;Edinaldo Aureliano de Lacerda;;;
+
+EMAIL;type=INTERNET,pref:edinaldolacerda@uol.com.br
+TEL;type=CELL,voice:81988572054
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Edmilson Cruz Júnior 
+N:;Edmilson Cruz Júnior;;;
+
+EMAIL;type=INTERNET,pref:edmilson.cruz.junior@hotmail.com
+TEL;type=CELL,voice:81991685410
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Edson Costa Coelho 
+N:;(Aps) Edson Costa Coelho;;;
+
+EMAIL;type=INTERNET,pref:edsonlapin@hotmail.com
+TEL;type=CELL,voice:81999736972
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Edson José Gonçalves Cavalcanti 
+N:;Edson José Gonçalves Cavalcanti;;;
+
+EMAIL;type=INTERNET,pref:edsonjgc@hotmail.com
+TEL;type=CELL,voice:81988845050
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Eduardo Augusto Paurá Peres 
+N:;Eduardo Augusto Paurá Peres;;;
+
+EMAIL;type=INTERNET,pref:eapp1946@gmail.com
+TEL;type=CELL,voice:81999047100
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Eduardo Costa 
+N:;Eduardo Costa;;;
+
+EMAIL;type=INTERNET,pref:eduardo.costa@tjpe.jus.br
+TEL;type=CELL,voice:81988471678
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Edvaldo José Palmeira 
+N:;Edvaldo José Palmeira;;;
+
+EMAIL;type=INTERNET,pref:ejpalmeira@uol.com.br
+TEL;type=CELL,voice:81999544707
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Eliane dos Santos Mendes Mascarenhas 
+N:;(Aps) Eliane dos Santos Mendes Mascarenhas;;;
+
+EMAIL;type=INTERNET,pref:elimasc@uol.com.br
+TEL;type=CELL,voice:81999772245
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Eliane Ferraz Guimarães Novaes 
+N:;Eliane Ferraz Guimarães Novaes;;;
+
+EMAIL;type=INTERNET,pref:e.fgnovaes@hotmail.com
+TEL;type=CELL,voice:81996030104
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Élio Braz Mendes 
+N:;Élio Braz Mendes;;;
+
+EMAIL;type=INTERNET,pref:eliobm@terra.com.br
+TEL;type=CELL,voice:81988221104
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Eloy D'Almeida Lins 
+N:;(Aps) Eloy D'Almeida Lins;;;
+
+EMAIL;type=INTERNET,pref:ascer@tjpe.gov.br
+TEL;type=CELL,voice:81999623464
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Elson Zoppellaro Machado 
+N:;Elson Zoppellaro Machado;;;
+
+EMAIL;type=INTERNET,pref:ezopp@uol.com.br
+TEL;type=CELL,voice:81996175417
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Emanuel Bonfim Carneiro Amaral Filho 
+N:;Emanuel Bonfim Carneiro Amaral Filho;;;
+
+EMAIL;type=INTERNET,pref:ebcaf@yahoo.com.br
+TEL;type=CELL,voice:81986533761
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Emiliano César Costa Galvão de França 
+N:;Emiliano César Costa Galvão de França;;;
+
+EMAIL;type=INTERNET,pref:emilianogalvao@yahoo.com.br
+TEL;type=CELL,voice:12981529686
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Emiliano Eustáquio da Silva 
+N:;(Aps) Emiliano Eustáquio da Silva;;;
+
+EMAIL;type=INTERNET,pref:emilianoeustaquio@bol.com.br
+TEL;type=CELL,voice:81987802593
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Enéas Oliveira da Rocha 
+N:;Enéas Oliveira da Rocha;;;
+
+EMAIL;type=INTERNET,pref:eneasolirocha@gmail.com
+TEL;type=CELL,voice:87999881379
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Enrico Duarte da Costa Oliveira 
+N:;Enrico Duarte da Costa Oliveira;;;
+
+EMAIL;type=INTERNET,pref:enricooliveira735@hotmail.com
+TEL;type=CELL,voice:81999499783
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Eriberto Chianca 
+N:;(Aps) Eriberto Chianca;;;
+
+TEL;type=CELL,voice:81999881120
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ernesto Bezerra Cavalcanti 
+N:;Ernesto Bezerra Cavalcanti;;;
+
+EMAIL;type=INTERNET,pref:ebcjd@globo.com
+TEL;type=CELL,voice:81999775894
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Etério Ramos Galvão Filho 
+N:;(Aps) Etério Ramos Galvão Filho;;;
+
+EMAIL;type=INTERNET,pref:eteriogalvao@gmail.com
+TEL;type=CELL,voice:81999738492
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Eudes dos Prazeres França 
+N:;Eudes dos Prazeres França;;;
+
+EMAIL;type=INTERNET,pref:eudespfranca@hotmail.com
+TEL;type=CELL,voice:81991713407
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Eugênio Cícero Marques 
+N:;Eugênio Cícero Marques;;;
+
+EMAIL;type=INTERNET,pref:eugeniociceromarques@ig.com.br
+TEL;type=CELL,voice:81992705978
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Eunice Maria Batista Prado 
+N:;Eunice Maria Batista Prado;;;
+
+EMAIL;type=INTERNET,pref:euniceprado_@hotmail.com
+TEL;type=CELL,voice:81999283331
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Eurico Brandão de Barros Correia 
+N:;Eurico Brandão de Barros Correia;;;
+
+EMAIL;type=INTERNET,pref:euricobbc@hotmail.com
+TEL;type=CELL,voice:81991274899
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Eurico de Barros Correia Filho 
+N:;Eurico de Barros Correia Filho;;;
+
+EMAIL;type=INTERNET,pref:euricobcf@yahoo.com.br
+TEL;type=CELL,voice:81999134337
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Euríco Lopes de Andrade Bitú 
+N:;(Aps) Euríco Lopes de Andrade Bitú;;;
+
+EMAIL;type=INTERNET,pref:euricobitu@hotmail.com
+TEL;type=CELL,voice:81994592311
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Evandro de Melo Cabral 
+N:;Evandro de Melo Cabral;;;
+
+EMAIL;type=INTERNET,pref:meugigamail@gmail.com
+TEL;type=CELL,voice:81998574386
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Evani Estevão de Barros 
+N:;Evani Estevão de Barros;;;
+
+EMAIL;type=INTERNET,pref:evani-barros@hotmail.com
+TEL;type=CELL,voice:81996328485
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Evanildo Coelho de Araújo Filho 
+N:;Evanildo Coelho de Araújo Filho;;;
+
+EMAIL;type=INTERNET,pref:evanildocoelho@yahoo.com.br
+TEL;type=CELL,voice:81996722209
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Évio Marques da Silva 
+N:;Évio Marques da Silva;;;
+
+EMAIL;type=INTERNET,pref:evimsilva@hotmail.com
+TEL;type=CELL,voice:81982350756
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Fábio Mello de Onofre Araújo 
+N:;Fábio Mello de Onofre Araújo;;;
+
+EMAIL;type=INTERNET,pref:fabiomoa@gmail.com
+TEL;type=CELL,voice:81997576593
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Fábio Vinícius de Lima Andrade 
+N:;Fábio Vinícius de Lima Andrade;;;
+
+EMAIL;type=INTERNET,pref:fabiolima08@uol.com.br
+TEL;type=CELL,voice:81996566891
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Fabíola Michele Muniz Mendes Freire de Moura 
+N:;Fabíola Michele Muniz Mendes Freire de Moura;;;
+
+EMAIL;type=INTERNET,pref:fabiolammmfm@gmail.com
+TEL;type=CELL,voice:81999984483
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Fausto de Castro Campos 
+N:;Fausto de Castro Campos;;;
+
+EMAIL;type=INTERNET,pref:faustocampos@amepe.com.br
+TEL;type=CELL,voice:81996021502
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Fausto Valença de Freitas 
+N:;Fausto Valença de Freitas;;;
+
+EMAIL;type=INTERNET,pref:dfausto@tjpe.jus.br
+TEL;type=CELL,voice:81999158882
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Felipe José Dias Martins da Rosa e Silva 
+N:;Felipe José Dias Martins da Rosa e Silva;;;
+
+EMAIL;type=INTERNET,pref:feliperosaesilva@gmail.com
+TEL;type=CELL,voice:81995908888
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Fernanda Moura de Carvalho 
+N:;Fernanda Moura de Carvalho;;;
+
+EMAIL;type=INTERNET,pref:moura.fernanda@globo.com
+TEL;type=CELL,voice:81999719374
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Fernanda Vieira Medeiros 
+N:;Fernanda Vieira Medeiros;;;
+
+EMAIL;type=INTERNET,pref:fernanda24vm@hotmail.com
+TEL;type=CELL,voice:85999284540
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Fernando Antônio Sabino Cordeiro 
+N:;Fernando Antônio Sabino Cordeiro;;;
+
+EMAIL;type=INTERNET,pref:ferasc2002@yahoo.com.br
+TEL;type=CELL,voice:81999349114
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Fernando Barbosa Pinto 
+N:;(Aps) Fernando Barbosa Pinto;;;
+
+TEL;type=CELL,voice:81985065401
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Fernando Cerqueira Norberto dos Santos 
+N:;Fernando Cerqueira Norberto dos Santos;;;
+
+EMAIL;type=INTERNET,pref:fernandocerqueiranorberto@gmail.com
+TEL;type=CELL,voice:81996016933
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Fernando Jorge Ribeiro Raposo 
+N:;Fernando Jorge Ribeiro Raposo;;;
+
+EMAIL;type=INTERNET,pref:fernando. raposo@tjpe.jus.br
+TEL;type=CELL,voice:81999785276
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Fernando Menezes Silva 
+N:;(Aps) Fernando Menezes Silva;;;
+
+EMAIL;type=INTERNET,pref:fernandomenezes156@gmail.com
+TEL;type=CELL,voice:81986533756
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Fernando Rodrigues Beltrão 
+N:;(Aps) Fernando Rodrigues Beltrão;;;
+
+EMAIL;type=INTERNET,pref:fbadvocacia@yahoo.com.br
+TEL;type=CELL,voice:81999713343
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Flávia Fabiane Nascimento Figueira 
+N:;Flávia Fabiane Nascimento Figueira;;;
+
+EMAIL;type=INTERNET,pref:flavia.fabi.figueira@gmail.com
+TEL;type=CELL,voice:81981996964
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Flávio Augusto Fontes de Lima 
+N:;Flávio Augusto Fontes de Lima;;;
+
+EMAIL;type=INTERNET,pref:flavioafl@uol.com.br
+TEL;type=CELL,voice:81999749984
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Flávio Krok Franco 
+N:;Flávio Krok Franco;;;
+
+EMAIL;type=INTERNET,pref:flaviokrok@hotmail.com
+TEL;type=CELL,voice:81997926022
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Francisco Assis de Morais Júnior 
+N:;Francisco Assis de Morais Júnior;;;
+
+EMAIL;type=INTERNET,pref:assisjunior.junior@bol.com.br@bol.com.br
+TEL;type=CELL,voice:81992826170
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Francisco Carneiro de Menezes 
+N:;(Aps) Francisco Carneiro de Menezes;;;
+
+EMAIL;type=INTERNET,pref:carneiromenezes@rce.neoline.com.br
+TEL;type=CELL,voice:81991140600
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Francisco de Carvalho Silva Gueiros Filho 
+N:;(Aps) Francisco de Carvalho Silva Gueiros Filho;;;
+
+EMAIL;type=INTERNET,pref:gueirosib@hotmail.com
+TEL;type=CELL,voice:81987297038
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Francisco de Sá Sampaio 
+N:;(Aps) Francisco de Sá Sampaio;;;
+
+TEL;type=CELL,voice:87988622500
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Francisco Jorge de Figueiredo Alves 
+N:;Francisco Jorge de Figueiredo Alves;;;
+
+EMAIL;type=INTERNET,pref:jorgealvesfa@hotmail.com
+TEL;type=CELL,voice:81995663222
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Francisco Josafá Moreira 
+N:;Francisco Josafá Moreira;;;
+
+EMAIL;type=INTERNET,pref:franciscojosafa@superig.com.br
+TEL;type=CELL,voice:87988237688
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Francisco Milton Araújo Júnior 
+N:;Francisco Milton Araújo Júnior;;;
+
+EMAIL;type=INTERNET,pref:francisco.milton@tjpe.jus.br
+TEL;type=CELL,voice:87999918562
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Francisco Rodrigues da Silva 
+N:;(Aps) Francisco Rodrigues da Silva;;;
+
+TEL;type=CELL,voice:81999965700
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Francisco Rodrigues dos Santos 
+N:;(Aps) Francisco Rodrigues dos Santos;;;
+
+EMAIL;type=INTERNET,pref:roizsantos@gmail.com
+TEL;type=CELL,voice:81999749183
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Frederico de Morais Tompson 
+N:;Frederico de Morais Tompson;;;
+
+EMAIL;type=INTERNET,pref:ftompson3@gmail.com
+TEL;type=CELL,voice:81999762256
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Frederico Guilherme Rodrigues de Lima 
+N:;(Aps) Frederico Guilherme Rodrigues de Lima;;;
+
+EMAIL;type=INTERNET,pref:lima.fred@hotmail.com
+TEL;type=CELL,voice:81999726905
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Gabriel Augusto Amario de Castro Pinto 
+N:;Gabriel Augusto Amario de Castro Pinto;;;
+
+EMAIL;type=INTERNET,pref:gabrielcastropinto@uol.com.br
+TEL;type=CELL,voice:87998236107
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Gabriel de Oliveira Cavalcanti Filho 
+N:;Gabriel de Oliveira Cavalcanti Filho;;;
+
+EMAIL;type=INTERNET,pref:gabrielc@hotlink.com.br
+TEL;type=CELL,voice:81988921993
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Gerson Barbosa da Silva Júnior 
+N:;Gerson Barbosa da Silva Júnior;;;
+
+EMAIL;type=INTERNET,pref:GBJUNIOR@IG.COM.BR
+TEL;type=CELL,voice:81999456155
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Gerson Venâncio Carvalho 
+N:;(Aps) Gerson Venâncio Carvalho;;;
+
+TEL;type=CELL,voice:87988035811
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Gil Buarque de Fonsêca 
+N:;(Aps) Gil Buarque de Fonsêca;;;
+
+TEL;type=CELL,voice:81988373469
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Gilberto Augusto Corrêa Gondin 
+N:;(Aps) Gilberto Augusto Corrêa Gondin;;;
+
+EMAIL;type=INTERNET,pref:ggondim@br.inter.net
+TEL;type=CELL,voice:81999635549
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Gilberto da Silva 
+N:;(Aps) Gilberto da Silva;;;
+
+TEL;type=CELL,voice:81999992532
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Gildenor Eudócio de Araújo Pires Júnior 
+N:;Gildenor Eudócio de Araújo Pires Júnior;;;
+
+EMAIL;type=INTERNET,pref:gildenorjunior1@globo.com
+TEL;type=CELL,voice:81999749741
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Gilvan Macêdo dos Santos 
+N:;Gilvan Macêdo dos Santos;;;
+
+EMAIL;type=INTERNET,pref:gilvan.m.santos@bol.com.br
+TEL;type=CELL,voice:81997739159
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Glacidelson Antônio da Silva 
+N:;Glacidelson Antônio da Silva;;;
+
+EMAIL;type=INTERNET,pref:glacidelson@bol.com.br
+TEL;type=CELL,voice:81996797239
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Gleydson Gleber Bento Alves de Lima Pinheiro 
+N:;Gleydson Gleber Bento Alves de Lima Pinheiro;;;
+
+EMAIL;type=INTERNET,pref:gleydsonlima@ig.com.br
+TEL;type=CELL,voice:81999818822
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Gualter Carlos de Alencar Neto 
+N:;(Aps) Gualter Carlos de Alencar Neto;;;
+
+TEL;type=CELL,voice:81998574549
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Guilherme Augusto de Albuquerque Arzani 
+N:;Guilherme Augusto de Albuquerque Arzani;;;
+
+EMAIL;type=INTERNET,pref:guiarzani@hotmail.com
+TEL;type=CELL,voice:87981642101
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Hailton Gonçalves da Silva 
+N:;Hailton Gonçalves da Silva;;;
+
+EMAIL;type=INTERNET,pref:hailtongs@hotmail.com
+TEL;type=CELL,voice:81999703860
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Haroldo Carneiro Leão Sobrinho 
+N:;Haroldo Carneiro Leão Sobrinho;;;
+
+EMAIL;type=INTERNET,pref:haroldosobrinho@terra.com.br
+TEL;type=CELL,voice:81994381334
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Helena Cristina Madi de Medeiros 
+N:;Helena Cristina Madi de Medeiros;;;
+
+EMAIL;type=INTERNET,pref:helena.medeiros@terra.com.br
+TEL;type=CELL,voice:81988554893
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Helenita Ramos Silva 
+N:;(Aps) Helenita Ramos Silva;;;
+
+EMAIL;type=INTERNET,pref:epessoademello@yahoo.com.br
+TEL;type=CELL,voice:81999976990
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Hélia Viegas Silva 
+N:;Hélia Viegas Silva;;;
+
+EMAIL;type=INTERNET,pref:heliavs@oi.com.br
+TEL;type=CELL,voice:81988540056
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Heraldo José dos Santos 
+N:;Heraldo José dos Santos;;;
+
+EMAIL;type=INTERNET,pref:hjs.pe@terra.com.br
+TEL;type=CELL,voice:81999289798
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Heriberto Carvalho Galvão 
+N:;Heriberto Carvalho Galvão;;;
+
+EMAIL;type=INTERNET,pref:heribertogalvao@hotmail.com
+TEL;type=CELL,voice:81985629435
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Hildemar Macedo de Morais 
+N:;Hildemar Macedo de Morais;;;
+
+EMAIL;type=INTERNET,pref:hildemarmorais@hotmail.com
+TEL;type=CELL,voice:81973009559
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Honório Gomes do Rêgo Filho 
+N:;Honório Gomes do Rêgo Filho;;;
+
+EMAIL;type=INTERNET,pref:honoriorego60@gmail.com
+TEL;type=CELL,voice:81999891031
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Hugo Vinícius Castro Jiménez 
+N:;Hugo Vinícius Castro Jiménez;;;
+
+EMAIL;type=INTERNET,pref:hugovinicius2012@bol.com.br
+TEL;type=CELL,voice:81995742629
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Hydia Virgínia Christino de Landim Farias 
+N:;Hydia Virgínia Christino de Landim Farias;;;
+
+EMAIL;type=INTERNET,pref:hydia.landim@gmail.com
+TEL;type=CELL,voice:81999645574
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Iarly José Holanda de Souza 
+N:;Iarly José Holanda de Souza;;;
+
+EMAIL;type=INTERNET,pref:iarlyh@yahoo.com.br
+TEL;type=CELL,voice:81998572000
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ícaro Nobre Fonseca 
+N:;Ícaro Nobre Fonseca;;;
+
+EMAIL;type=INTERNET,pref:icaronobre84@hotmail.com
+TEL;type=CELL,voice:87981902101
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Idílio Oliveira de Araújo 
+N:;Idílio Oliveira de Araújo;;;
+
+EMAIL;type=INTERNET,pref:codigoiliooliveira@hotmail.com
+TEL;type=CELL,voice:83999248258
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Igor da Silva Rêgo 
+N:;Igor da Silva Rêgo;;;
+
+EMAIL;type=INTERNET,pref:igor.rego@yahoo.com.br
+TEL;type=CELL,voice:81984835151
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ildete Veríssimo de Lima 
+N:;Ildete Veríssimo de Lima;;;
+
+EMAIL;type=INTERNET,pref:ildetevli@hotmail.com
+TEL;type=CELL,voice:81999694435
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Inês Maria de Albuquerque Alves 
+N:;Inês Maria de Albuquerque Alves;;;
+
+EMAIL;type=INTERNET,pref:inesmariaaa@yahoo.com.br
+TEL;type=CELL,voice:81999649750
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Isabelle Moitinho Pinto 
+N:;Isabelle Moitinho Pinto;;;
+
+EMAIL;type=INTERNET,pref:isabellemoitinho@hotmail.com
+TEL;type=CELL,voice:81999158067
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Isânia Maria Moreira Reis 
+N:;Isânia Maria Moreira Reis;;;
+
+EMAIL;type=INTERNET,pref:isaniamoreira@uol.com.br
+TEL;type=CELL,voice:81996570320
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Itamar Pereira da Silva Júnior 
+N:;Itamar Pereira da Silva Júnior;;;
+
+EMAIL;type=INTERNET,pref:itaijr@globo.com
+TEL;type=CELL,voice:81988160415
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Iure Pedroza Menezes 
+N:;Iure Pedroza Menezes;;;
+
+EMAIL;type=INTERNET,pref:iurepedroza@hotmail.com
+TEL;type=CELL,voice:87988171008
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ivan Alves de Barros 
+N:;Ivan Alves de Barros;;;
+
+EMAIL;type=INTERNET,pref:iabjudwin@hotmail.com
+TEL;type=CELL,voice:81991871912
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Ives Miranda Mayal 
+N:;(Aps) Ives Miranda Mayal;;;
+
+EMAIL;type=INTERNET,pref:ivesmayal@amepe.com.br
+TEL;type=CELL,voice:81999766530
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Ivon Vieira Lopes 
+N:;(Aps) Ivon Vieira Lopes;;;
+
+EMAIL;type=INTERNET,pref:ivon_lopes@hotmail.com
+TEL;type=CELL,voice:83987874303
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Ivonaldo Pereira de Miranda 
+N:;(Aps) Ivonaldo Pereira de Miranda;;;
+
+EMAIL;type=INTERNET,pref:ivopmiranda@hotmail.com
+TEL;type=CELL,voice:81999662089
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Izabel de Souza Oliveira 
+N:;Izabel de Souza Oliveira;;;
+
+TEL;type=CELL,voice:81999246333
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Izilda Maria de Abreu Dornelas Câmara 
+N:;(Aps) Izilda Maria de Abreu Dornelas Câmara;;;
+
+EMAIL;type=INTERNET,pref:izildabreu@hotmail.com
+TEL;type=CELL,voice:81999132484
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Jacira Jardim de Souza Meneses 
+N:;Jacira Jardim de Souza Meneses;;;
+
+EMAIL;type=INTERNET,pref:jacirajardim@gmail.com
+TEL;type=CELL,voice:81999526242
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Jacira Maria Lucena da Rocha 
+N:;Jacira Maria Lucena da Rocha;;;
+
+EMAIL;type=INTERNET,pref:jaciralucena@yahoo.com.br
+TEL;type=CELL,voice:81999777061
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Jackson Borges de Araújo 
+N:;(Aps) Jackson Borges de Araújo;;;
+
+EMAIL;type=INTERNET,pref:jackborges@hotmail.com
+TEL;type=CELL,voice:81999966307
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Jandercleison Pinheiro Jucá 
+N:;Jandercleison Pinheiro Jucá;;;
+
+EMAIL;type=INTERNET,pref:janderpinheirojuca@gmail.com
+TEL;type=CELL,voice:88999931177
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Janduhy Finizola da Cunha Filho 
+N:;Janduhy Finizola da Cunha Filho;;;
+
+EMAIL;type=INTERNET,pref:janduhyfinizola@bol.com.br
+TEL;type=CELL,voice:81999772690
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Jeanine de Almeida da Sodré Mota 
+N:;Jeanine de Almeida da Sodré Mota;;;
+
+EMAIL;type=INTERNET,pref:jeanine.mota@tjpe.jus.br
+TEL;type=CELL,voice:81999736908
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Jefferson Félix de Melo 
+N:;Jefferson Félix de Melo;;;
+
+EMAIL;type=INTERNET,pref:jefsj@hotmail.com
+TEL;type=CELL,voice:81992965441
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) João Batista Lustosa da Costa 
+N:;(Aps) João Batista Lustosa da Costa;;;
+
+EMAIL;type=INTERNET,pref:joaobatistalustosa@hotmail.com
+TEL;type=CELL,voice:81991822470
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) João Bosco Gouveia de Melo 
+N:;(Aps) João Bosco Gouveia de Melo;;;
+
+EMAIL;type=INTERNET,pref:boscogm@hotmail.com
+TEL;type=CELL,voice:81992500090
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) João Côrte Magalhães 
+N:;(Aps) João Côrte Magalhães;;;
+
+EMAIL;type=INTERNET,pref:rmgmagalhaes@globo.com
+TEL;type=CELL,voice:81991320683
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) João David de Souza Filho 
+N:;(Aps) João David de Souza Filho;;;
+
+TEL;type=CELL,voice:81999750433
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) João de Oliveira 
+N:;(Aps) João de Oliveira;;;
+
+TEL;type=CELL,voice:81999258339
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) João Gomes dos Passos 
+N:;(Aps) João Gomes dos Passos;;;
+
+TEL;type=CELL,voice:81987124590
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:João Guido Tenório de Albuquerque 
+N:;João Guido Tenório de Albuquerque;;;
+
+EMAIL;type=INTERNET,pref:joo_guido@yahoo.com.br
+TEL;type=CELL,voice:81997689363
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:João Ismael do Nascimento Filho 
+N:;João Ismael do Nascimento Filho;;;
+
+EMAIL;type=INTERNET,pref:joao.ismael@tjpe.jus.br
+TEL;type=CELL,voice:81991473901
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:João Ricardo da Silva Neto 
+N:;João Ricardo da Silva Neto;;;
+
+EMAIL;type=INTERNET,pref:joaorsn1@gmail.com
+TEL;type=CELL,voice:81998844369
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Joaquim Francisco Barbosa 
+N:;Joaquim Francisco Barbosa;;;
+
+EMAIL;type=INTERNET,pref:aroeirascfob@hotmail.com
+TEL;type=CELL,voice:87999932929
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Joaquim Pereira Lafayette Neto 
+N:;(Aps) Joaquim Pereira Lafayette Neto;;;
+
+EMAIL;type=INTERNET,pref:joaquim.neto@tjpe.jus.br
+TEL;type=CELL,voice:81992170160
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Joaquim Rodrigues de Castro 
+N:;(Aps) Joaquim Rodrigues de Castro;;;
+
+EMAIL;type=INTERNET,pref:descastro@hotmail.com
+TEL;type=CELL,voice:81999727068
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Jones Figueiredo Alves 
+N:;Jones Figueiredo Alves;;;
+
+EMAIL;type=INTERNET,pref:jonesfig@uol.com.br
+TEL;type=CELL,voice:81996016453
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Jorge Américo Pereira de Lira 
+N:;Jorge Américo Pereira de Lira;;;
+
+EMAIL;type=INTERNET,pref:jorgeamericolira@gmail.com
+TEL;type=CELL,voice:81996155662
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Jorge Eduardo de Melo Sotero 
+N:;Jorge Eduardo de Melo Sotero;;;
+
+EMAIL;type=INTERNET,pref:jorgesotero@hotmail.com
+TEL;type=CELL,voice:81991119448
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Jorge Luiz dos Santos Henriques 
+N:;Jorge Luiz dos Santos Henriques;;;
+
+EMAIL;type=INTERNET,pref:jl-henriques@uol.com
+TEL;type=CELL,voice:81999750471
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José Adelmo Barbosa da Costa Pereira 
+N:;José Adelmo Barbosa da Costa Pereira;;;
+
+EMAIL;type=INTERNET,pref:jose-adelmo@ig.com.br
+TEL;type=CELL,voice:81999816043
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José Alencar Dias da Costa Araújo 
+N:;(Aps) José Alencar Dias da Costa Araújo;;;
+
+EMAIL;type=INTERNET,pref:ja0478@hotmail.com
+TEL;type=CELL,voice:81999752258
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José Anchieta Félix da Silva 
+N:;José Anchieta Félix da Silva;;;
+
+EMAIL;type=INTERNET,pref:anchietafelix@yahoo.com.br
+TEL;type=CELL,voice:81999840867
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José Antônio Amorim 
+N:;(Aps) José Antônio Amorim;;;
+
+TEL;type=CELL,voice:81987156180
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José Antônio Macêdo Malta 
+N:;(Aps) José Antônio Macêdo Malta;;;
+
+EMAIL;type=INTERNET,pref:demalta@yahoo.com.br
+TEL;type=CELL,voice:81999660697
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José Carlos Vasconcelos Filho 
+N:;José Carlos Vasconcelos Filho;;;
+
+EMAIL;type=INTERNET,pref:j.carlos.filho@uol.com.br
+TEL;type=CELL,voice:87988443002
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José Carneiro de Farias Souza 
+N:;(Aps) José Carneiro de Farias Souza;;;
+
+EMAIL;type=INTERNET,pref:jcdefs@yahoo.com
+TEL;type=CELL,voice:81988555448
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José Carvalho de Aragão Neto 
+N:;José Carvalho de Aragão Neto;;;
+
+EMAIL;type=INTERNET,pref:jca.neto@hotmail.com
+TEL;type=CELL,voice:87999013921
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José Caubi Arraes Bandeira 
+N:;(Aps) José Caubi Arraes Bandeira;;;
+
+EMAIL;type=INTERNET,pref:joandira@elogica.com.br
+TEL;type=CELL,voice:81999748484
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José Claudionor da Silva Filho 
+N:;José Claudionor da Silva Filho;;;
+
+EMAIL;type=INTERNET,pref:j.claudionor1959@gmail.com
+TEL;type=CELL,voice:81999749853
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José de Abreu Santos 
+N:;(Aps) José de Abreu Santos;;;
+
+EMAIL;type=INTERNET,pref:adelaideabreu@yahoo.com.br
+TEL;type=CELL,voice:81994019473
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José de Andrade Saraiva Filho  
+N:;José de Andrade Saraiva Filho ;;;
+
+EMAIL;type=INTERNET,pref:jose.saraiva@tjpe.jus.br
+TEL;type=CELL,voice:81995467095
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José Fernando Santos de Souza 
+N:;José Fernando Santos de Souza;;;
+
+EMAIL;type=INTERNET,pref:jfsouza09@oi.com.br
+TEL;type=CELL,voice:81996690212
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José Francisco de Almeida Filho 
+N:;(Aps) José Francisco de Almeida Filho;;;
+
+EMAIL;type=INTERNET,pref:jfafcheco@yahoo.com.br
+TEL;type=CELL,voice:87999915454
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José Gentil Pessoa Bezerra 
+N:;(Aps) José Gentil Pessoa Bezerra;;;
+
+EMAIL;type=INTERNET,pref:jgentil2010@hotmail.com
+TEL;type=CELL,voice:81999966823
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José Gilberto de Sousa 
+N:;José Gilberto de Sousa;;;
+
+EMAIL;type=INTERNET,pref:jgsjd@hotmail.com
+TEL;type=CELL,voice:83991135331
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José Gilmar da Silva 
+N:;José Gilmar da Silva;;;
+
+EMAIL;type=INTERNET,pref:jgdselva@hotmail.com
+TEL;type=CELL,voice:81987996261
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José Gonçalves de Alencar 
+N:;José Gonçalves de Alencar;;;
+
+EMAIL;type=INTERNET,pref:alencar_jose@pop.com.br
+TEL;type=CELL,voice:88996187200
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José Ivo de Paula Guimarães 
+N:;José Ivo de Paula Guimarães;;;
+
+EMAIL;type=INTERNET,pref:jipg@terra.com.br
+TEL;type=CELL,voice:81999687444
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José Machado de Azevedo 
+N:;(Aps) José Machado de Azevedo;;;
+
+EMAIL;type=INTERNET,pref:jmzaz@terra.com.br
+TEL;type=CELL,voice:81999739393
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José Marcelon Luiz e Silva 
+N:;José Marcelon Luiz e Silva;;;
+
+EMAIL;type=INTERNET,pref:maregot@globo.com
+TEL;type=CELL,voice:81987270434
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José Maria de Carvalho Júnior 
+N:;(Aps) José Maria de Carvalho Júnior;;;
+
+EMAIL;type=INTERNET,pref:jmcarvalhojr@villaisp.com
+TEL;type=CELL,voice:87996184211
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José Milton Bispo 
+N:;(Aps) José Milton Bispo;;;
+
+EMAIL;type=INTERNET,pref:bispo.milton@yahoo.com.br
+TEL;type=CELL,voice:81987359657
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José Napoleão Tavares de Oliveira 
+N:;(Aps) José Napoleão Tavares de Oliveira;;;
+
+EMAIL;type=INTERNET,pref:napoleaot@uol.com.br
+TEL;type=CELL,voice:81996154454
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José Nunes Costa 
+N:;(Aps) José Nunes Costa;;;
+
+TEL;type=CELL,voice:81991628969
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José Pereira Lemos 
+N:;(Aps) José Pereira Lemos;;;
+
+EMAIL;type=INTERNET,pref:rec168481@terra.com.br
+TEL;type=CELL,voice:81999498912
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José Rabelo de Araújo Pimenta 
+N:;(Aps) José Rabelo de Araújo Pimenta;;;
+
+TEL;type=CELL,voice:81996574568
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José Raimundo dos Santos Costa 
+N:;José Raimundo dos Santos Costa;;;
+
+EMAIL;type=INTERNET,pref:jrsc44@oi.com.br
+TEL;type=CELL,voice:81988451808
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José Roberto Alves de Sena 
+N:;José Roberto Alves de Sena;;;
+
+EMAIL;type=INTERNET,pref:robissena@uol.com.br
+TEL;type=CELL,voice:81999483372
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José Roberto de Oliveira 
+N:;(Aps) José Roberto de Oliveira;;;
+
+EMAIL;type=INTERNET,pref:jr.roberto3010@uol.com.br
+TEL;type=CELL,voice:81992927577
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José Roberto Moreira 
+N:;(Aps) José Roberto Moreira;;;
+
+EMAIL;type=INTERNET,pref:zebetomoreira@yahoo.com.br
+TEL;type=CELL,voice:81996093060
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José Romero Maciel de Aquino 
+N:;José Romero Maciel de Aquino;;;
+
+EMAIL;type=INTERNET,pref:romeromacielaquino@gmail.com
+TEL;type=CELL,voice:81999653865
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José Ronemberg Travassos da Silva 
+N:;José Ronemberg Travassos da Silva;;;
+
+EMAIL;type=INTERNET,pref:ronemberg@terra.com.br
+TEL;type=CELL,voice:81999726468
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:JOSE SEVERINO BARBOSA 
+N:;JOSE SEVERINO BARBOSA;;;
+
+EMAIL;type=INTERNET,pref:jose.barbosa@tjpe.jus.br
+TEL;type=CELL,voice:81981900412
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José Tadeu dos Passos e Silva 
+N:;José Tadeu dos Passos e Silva;;;
+
+EMAIL;type=INTERNET,pref:jtadeupassos@gmail.com
+TEL;type=CELL,voice:81999155801
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) José Valdmir de Oliveira Chaves 
+N:;(Aps) José Valdmir de Oliveira Chaves;;;
+
+TEL;type=CELL,voice:81999139386
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:José Viana Ulisses Filho 
+N:;José Viana Ulisses Filho;;;
+
+EMAIL;type=INTERNET,pref:viana.ulisses@bol.com.br
+TEL;type=CELL,voice:81988064006
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Jose Wilson Soares Martins 
+N:;Jose Wilson Soares Martins;;;
+
+EMAIL;type=INTERNET,pref:josewmartins@hotmail.com
+TEL;type=CELL,voice:81997516843
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Josias Horácio da Silva 
+N:;(Aps) Josias Horácio da Silva;;;
+
+EMAIL;type=INTERNET,pref:josiashoracio@hotmail.com
+TEL;type=CELL,voice:87999990899
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Josué Antônio Fonseca de Sena 
+N:;Josué Antônio Fonseca de Sena;;;
+
+EMAIL;type=INTERNET,pref:josue_sena@hotmail.com
+TEL;type=CELL,voice:81999729700
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Juçara Leila do Rêgo Figueiredo 
+N:;Juçara Leila do Rêgo Figueiredo;;;
+
+EMAIL;type=INTERNET,pref:jucarafigueiredo@uol.com.br
+TEL;type=CELL,voice:87999951065
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Jucineide Freitas de Albuquerque 
+N:;(Aps) Jucineide Freitas de Albuquerque;;;
+
+EMAIL;type=INTERNET,pref:jucineide@globo.com
+TEL;type=CELL,voice:81991390672
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Juliana Coutinho Martiniano Lins 
+N:;Juliana Coutinho Martiniano Lins;;;
+
+EMAIL;type=INTERNET,pref:julianamartinianolins@hotmail.com
+TEL;type=CELL,voice:81999629167
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Juliana Rodrigues Barbosa 
+N:;Juliana Rodrigues Barbosa;;;
+
+EMAIL;type=INTERNET,pref:julianarodriguesbarbosa@live.com
+TEL;type=CELL,voice:81997505312
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Julio Cesar Vasconcelos de Almeira 
+N:;Julio Cesar Vasconcelos de Almeira;;;
+
+EMAIL;type=INTERNET,pref:jcvasconcelos2427@hotmail.com
+TEL;type=CELL,voice:81997895773
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Júlio Olney Tenório de Godoy 
+N:;Júlio Olney Tenório de Godoy;;;
+
+EMAIL;type=INTERNET,pref:jutgodoy@gmail.com
+TEL;type=CELL,voice:81999751365
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Júlio Pereira de Almeida 
+N:;(Aps) Júlio Pereira de Almeida;;;
+
+TEL;type=CELL,voice:81999767617
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Karina Pinheiro DAlmeida Lins 
+N:;Karina Pinheiro DAlmeida Lins;;;
+
+EMAIL;type=INTERNET,pref:karinaplins@gmail.com
+TEL;type=CELL,voice:81999113948
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Karla Fabíola Rafael Peixoto Dantas 
+N:;Karla Fabíola Rafael Peixoto Dantas;;;
+
+EMAIL;type=INTERNET,pref:kfpeixoto@gmail.com
+TEL;type=CELL,voice:87991456801
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Kathya Gomes Veloso 
+N:;Kathya Gomes Veloso;;;
+
+EMAIL;type=INTERNET,pref:kathyaveloso@hotmail.com
+TEL;type=CELL,voice:81998904967
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Laiete Jatobá Neto 
+N:;Laiete Jatobá Neto;;;
+
+EMAIL;type=INTERNET,pref:ljneto1964@gmail.com
+TEL;type=CELL,voice:81999736026
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Laís Monteiro de Moraes Fragoso Costa 
+N:;Laís Monteiro de Moraes Fragoso Costa;;;
+
+EMAIL;type=INTERNET,pref:lfcosta68@hotmail.com
+TEL;type=CELL,voice:81988818819
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Lara Corrêa Gambôa da Silva 
+N:;Lara Corrêa Gambôa da Silva;;;
+
+EMAIL;type=INTERNET,pref:laracgs@yahoo.com.br
+TEL;type=CELL,voice:81999722647
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Lauro Pedro dos Santos Neto 
+N:;Lauro Pedro dos Santos Neto;;;
+
+EMAIL;type=INTERNET,pref:lauro.pedro@tjpe.jus.br
+TEL;type=CELL,voice:81999693000
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Lenivaldo Izídio de Sena 
+N:;(Aps) Lenivaldo Izídio de Sena;;;
+
+TEL;type=CELL,voice:81992189644
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Leonardo Romeiro Asfora 
+N:;Leonardo Romeiro Asfora;;;
+
+EMAIL;type=INTERNET,pref:lrasfora@gmail.com
+TEL;type=CELL,voice:81985567112
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Leonísio Lopes de Almeida 
+N:;(Aps) Leonísio Lopes de Almeida;;;
+
+TEL;type=CELL,voice:87999383655
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Leopoldo de Arruda Raposo 
+N:;Leopoldo de Arruda Raposo;;;
+
+EMAIL;type=INTERNET,pref:laraposo1@gmail.com
+TEL;type=CELL,voice:81999134378
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Lucas de Carvalho Viegas 
+N:;Lucas de Carvalho Viegas;;;
+
+EMAIL;type=INTERNET,pref:lucasdecarvalhoviegas@hotmail.com
+TEL;type=CELL,voice:51998924336
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Lucas Tavares Coutinho 
+N:;Lucas Tavares Coutinho;;;
+
+EMAIL;type=INTERNET,pref:lucas_coutinho@hotmail.com
+TEL;type=CELL,voice:81991332213
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Luciana Ferreira de Araújo Magalhães 
+N:;Luciana Ferreira de Araújo Magalhães;;;
+
+EMAIL;type=INTERNET,pref:lucianafaraujo@uol.com.br
+TEL;type=CELL,voice:81992040743
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Luciana Maranhão de Araújo 
+N:;Luciana Maranhão de Araújo;;;
+
+EMAIL;type=INTERNET,pref:luciana.maranhao28@gmail.com
+TEL;type=CELL,voice:81998370439
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Luciana Maria Tavares de Menezes 
+N:;Luciana Maria Tavares de Menezes;;;
+
+EMAIL;type=INTERNET,pref:lucianamtm@gmail.com
+TEL;type=CELL,voice:81999135646
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Luciana Marinho Pereira de Carvalho 
+N:;Luciana Marinho Pereira de Carvalho;;;
+
+EMAIL;type=INTERNET,pref:lm_pereira@ig.com.br
+TEL;type=CELL,voice:87996070102
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Luciano de Castro Campos 
+N:;Luciano de Castro Campos;;;
+
+EMAIL;type=INTERNET,pref:castro.campos@tjpe.jus.br
+TEL;type=CELL,voice:81992183765
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Luciene Robéria Pontes de Lima 
+N:;Luciene Robéria Pontes de Lima;;;
+
+EMAIL;type=INTERNET,pref:luciene.roberia@gmail.com
+TEL;type=CELL,voice:81999761310
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Lúcio Grassi de Gouveia 
+N:;Lúcio Grassi de Gouveia;;;
+
+EMAIL;type=INTERNET,pref:luciograssi13@gmail.com
+TEL;type=CELL,voice:81999724666
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Luis Correia da Silva 
+N:;Luis Correia da Silva;;;
+
+EMAIL;type=INTERNET,pref:luis_correia@uol.com.br
+TEL;type=CELL,voice:81985826746
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Luiz Artur Guedes Marques 
+N:;Luiz Artur Guedes Marques;;;
+
+EMAIL;type=INTERNET,pref:arturmarques1@hotmail.com
+TEL;type=CELL,voice:81999145598
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Luiz Belém de Alencar 
+N:;(Aps) Luiz Belém de Alencar;;;
+
+TEL;type=CELL,voice:81999723081
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Luiz Carlos de Freitas Medeiros 
+N:;(Aps) Luiz Carlos de Freitas Medeiros;;;
+
+EMAIL;type=INTERNET,pref:dluiz@tjpe.jus.br
+TEL;type=CELL,voice:81992429931
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Luiz Célio de Sá Leite 
+N:;Luiz Célio de Sá Leite;;;
+
+EMAIL;type=INTERNET,pref:luizceliosa@uol.com.br
+TEL;type=CELL,voice:81994048557
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Luiz Eduardo de Sousa Neto 
+N:;Luiz Eduardo de Sousa Neto;;;
+
+EMAIL;type=INTERNET,pref:lula@agnet.com
+TEL;type=CELL,voice:81999729618
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Luiz Gomes da Rocha Neto 
+N:;Luiz Gomes da Rocha Neto;;;
+
+EMAIL;type=INTERNET,pref:lrocha@elogica.com.br
+TEL;type=CELL,voice:81991393434
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Luiz Gustavo Mendonça de Araújo 
+N:;Luiz Gustavo Mendonça de Araújo;;;
+
+EMAIL;type=INTERNET,pref:gustavaoaraujo@gmail.com
+TEL;type=CELL,voice:81999740222
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Luiz Mário Miranda 
+N:;Luiz Mário Miranda;;;
+
+EMAIL;type=INTERNET,pref:lmm@amepe.com.br
+TEL;type=CELL,voice:81987716712
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Luiz Sergio Silveira Cerqueira 
+N:;Luiz Sergio Silveira Cerqueira;;;
+
+EMAIL;type=INTERNET,pref:sailuiz@uol.com.br
+TEL;type=CELL,voice:81999897583
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Magui Lins Azevedo 
+N:;(Aps) Magui Lins Azevedo;;;
+
+TEL;type=CELL,voice:81996359230
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Malu Marinho Sette 
+N:;Malu Marinho Sette;;;
+
+EMAIL;type=INTERNET,pref:malusette@yahoo.com.br
+TEL;type=CELL,voice:81999243609
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Marcelo Goés de Vasconcelos  
+N:;Marcelo Goés de Vasconcelos ;;;
+
+EMAIL;type=INTERNET,pref:marcelo.gv@uol.com.br
+TEL;type=CELL,voice:82988050412
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Marcelo Marques Cabral 
+N:;Marcelo Marques Cabral;;;
+
+EMAIL;type=INTERNET,pref:marcelomarquescabral30@gmail.com
+TEL;type=CELL,voice:81991780091
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Marcelo Russel Wanderley 
+N:;Marcelo Russel Wanderley;;;
+
+EMAIL;type=INTERNET,pref:mrussel@uol.com.br
+TEL;type=CELL,voice:81988128809
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Marcílio Duque Cavalcanti 
+N:;(Aps) Marcílio Duque Cavalcanti;;;
+
+EMAIL;type=INTERNET,pref:marcilioduque@ig.com.br
+TEL;type=CELL,voice:81999158816
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Márcio Araújo dos Santos 
+N:;Márcio Araújo dos Santos;;;
+
+EMAIL;type=INTERNET,pref:maraujosantos@hotmail.com
+TEL;type=CELL,voice:81992128395
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Márcio Bastos Sá Barreto 
+N:;Márcio Bastos Sá Barreto;;;
+
+EMAIL;type=INTERNET,pref:marcio.barretto@tjpe.jus.br
+TEL;type=CELL,voice:87999880547
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Márcio Fernando de Aguiar Silva 
+N:;Márcio Fernando de Aguiar Silva;;;
+
+TEL;type=CELL,voice:81994620155
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Marco Aurélio Mendonça de Araújo 
+N:;Marco Aurélio Mendonça de Araújo;;;
+
+EMAIL;type=INTERNET,pref:mamaraujo18@uol.com.br
+TEL;type=CELL,voice:81999737031
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Marcone José Fraga do Nascimento 
+N:;Marcone José Fraga do Nascimento;;;
+
+EMAIL;type=INTERNET,pref:m.j.f.n@hotmail.com
+TEL;type=CELL,voice:81991669097
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Marcos Antônio Nery de Azevedo 
+N:;Marcos Antônio Nery de Azevedo;;;
+
+EMAIL;type=INTERNET,pref:jurispe@uol.com.br
+TEL;type=CELL,voice:81999710230
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Marcos Franco Bacelar 
+N:;Marcos Franco Bacelar;;;
+
+EMAIL;type=INTERNET,pref:mfrancobacelar@gmail.com
+TEL;type=CELL,voice:87988083214
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Marcos Garcez de Menezes Júnior 
+N:;Marcos Garcez de Menezes Júnior;;;
+
+EMAIL;type=INTERNET,pref:garcezjr@ig.com.br
+TEL;type=CELL,voice:81999529478
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Marcus Cézar Sarmento Gadelha 
+N:;Marcus Cézar Sarmento Gadelha;;;
+
+EMAIL;type=INTERNET,pref:drmarcos.gadelha@hotmail.com
+TEL;type=CELL,voice:87996254676
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Marcus Vinícius Barbosa de Alencar Luz 
+N:;Marcus Vinícius Barbosa de Alencar Luz;;;
+
+EMAIL;type=INTERNET,pref:marcusvbalencar@hotmail.com
+TEL;type=CELL,voice:87996370328
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Marcyrajara Maria Góis de Arruda 
+N:;Marcyrajara Maria Góis de Arruda;;;
+
+EMAIL;type=INTERNET,pref:marcyrajara@hotmail.com
+TEL;type=CELL,voice:81995504994
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maria Adelaide Monteiro de Abreu Lacerda Melquiades 
+N:;Maria Adelaide Monteiro de Abreu Lacerda Melquiades;;;
+
+EMAIL;type=INTERNET,pref:adelaideabreu@yahoo.com.br
+TEL;type=CELL,voice:81999699784
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Maria Aparecida Dias Costa 
+N:;(Aps) Maria Aparecida Dias Costa;;;
+
+EMAIL;type=INTERNET,pref:aparecida2009@uol.com.br
+TEL;type=CELL,voice:81988589768
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maria Auri Alexandre Ribeiro 
+N:;Maria Auri Alexandre Ribeiro;;;
+
+EMAIL;type=INTERNET,pref:maria.auri@tjpe.jus.br
+TEL;type=CELL,voice:81999718713
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maria Betânia Beltrão Gondim 
+N:;Maria Betânia Beltrão Gondim;;;
+
+EMAIL;type=INTERNET,pref:betaniagondim@hotmail.com
+TEL;type=CELL,voice:81999042298
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maria Betânia Duarte Rolim 
+N:;Maria Betânia Duarte Rolim;;;
+
+EMAIL;type=INTERNET,pref:betaniarolim@uol.com.br
+TEL;type=CELL,voice:87988061068
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maria Betânia Martins da Hora Rocha 
+N:;Maria Betânia Martins da Hora Rocha;;;
+
+EMAIL;type=INTERNET,pref:mbetania.rocha@gmail.com
+TEL;type=CELL,voice:81999540155
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maria Cristina Fernandes de Almeida 
+N:;Maria Cristina Fernandes de Almeida;;;
+
+EMAIL;type=INTERNET,pref:crisfernandes73@bol.com.br
+TEL;type=CELL,voice:81999219473
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maria da Conceição Godoi Bertholini 
+N:;Maria da Conceição Godoi Bertholini;;;
+
+EMAIL;type=INTERNET,pref:ceicinhagodoy@hotmail.com
+TEL;type=CELL,voice:81988579185
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maria das Graças Serafim Costa 
+N:;Maria das Graças Serafim Costa;;;
+
+EMAIL;type=INTERNET,pref:gcostamm@hotmail.com
+TEL;type=CELL,voice:81999829294
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maria do Carmo da Costa Soares 
+N:;Maria do Carmo da Costa Soares;;;
+
+EMAIL;type=INTERNET,pref:maria_do_carmo_da_costa_soares@hotmail.com
+TEL;type=CELL,voice:81981134807
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maria do Carmo de Morais Melo 
+N:;Maria do Carmo de Morais Melo;;;
+
+EMAIL;type=INTERNET,pref:maria.carmo.melo@tjpe.jus.br
+TEL;type=CELL,voice:81992622342
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maria do Perpétuo Socorro de Britto Alves 
+N:;Maria do Perpétuo Socorro de Britto Alves;;;
+
+EMAIL;type=INTERNET,pref:socorrobritto@terra.com.br
+TEL;type=CELL,voice:81992497343
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maria do Rosário Monteiro Pimentel de Souza 
+N:;Maria do Rosário Monteiro Pimentel de Souza;;;
+
+EMAIL;type=INTERNET,pref:laerte _neves@hotmail.com
+TEL;type=CELL,voice:81999749838
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maria Eliane Cabral Campos Carvalho 
+N:;Maria Eliane Cabral Campos Carvalho;;;
+
+EMAIL;type=INTERNET,pref:melianecabral@yahoo.com.br
+TEL;type=CELL,voice:81999969909
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maria Margarida de Souza Fonseca 
+N:;Maria Margarida de Souza Fonseca;;;
+
+EMAIL;type=INTERNET,pref:margaridasfonseca@yahoo.com.br
+TEL;type=CELL,voice:81999656582
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maria Rosa Vieira Santos 
+N:;Maria Rosa Vieira Santos;;;
+
+EMAIL;type=INTERNET,pref:mr.vieirasantos@uol.com.br
+TEL;type=CELL,voice:81999547019
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maria Segunda Gomes de Lima 
+N:;Maria Segunda Gomes de Lima;;;
+
+EMAIL;type=INTERNET,pref:mariasegunda@bol.com.br
+TEL;type=CELL,voice:81999718878
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maria Valéria Silva Santos de Melo 
+N:;Maria Valéria Silva Santos de Melo;;;
+
+EMAIL;type=INTERNET,pref:mvssval@terra.com.br
+TEL;type=CELL,voice:81999761760
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Mariana Agostini de Sequeira 
+N:;Mariana Agostini de Sequeira;;;
+
+EMAIL;type=INTERNET,pref:maniana.agostini@globo.com
+TEL;type=CELL,voice:21993486211
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Mariana Vieira Sarmento  
+N:;Mariana Vieira Sarmento ;;;
+
+EMAIL;type=INTERNET,pref:marianavsfp@yahoo.com.br
+TEL;type=CELL,voice:81996460008
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Marília Falcone Gomes Lócio 
+N:;Marília Falcone Gomes Lócio;;;
+
+EMAIL;type=INTERNET,pref:mfalcone@ig.com.br
+TEL;type=CELL,voice:81988669682
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Marinês Marques Viana 
+N:;Marinês Marques Viana;;;
+
+EMAIL;type=INTERNET,pref:mm.viana@oi.com.br
+TEL;type=CELL,voice:81987447639
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Mariza Silva Borges 
+N:;Mariza Silva Borges;;;
+
+EMAIL;type=INTERNET,pref:marizasborges@hotmail.com
+TEL;type=CELL,voice:83999839648
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Marupiraja Ramos Ribas 
+N:;Marupiraja Ramos Ribas;;;
+
+EMAIL;type=INTERNET,pref:marupiraja@ig.com.br
+TEL;type=CELL,voice:81999521070
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Marylúsia Pereira Feitosa Dias de Araújo 
+N:;Marylúsia Pereira Feitosa Dias de Araújo;;;
+
+EMAIL;type=INTERNET,pref:marylusiafeitosa@uol.com.br
+TEL;type=CELL,voice:81999123096
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Matheus de Carvalho Melo Lopes 
+N:;Matheus de Carvalho Melo Lopes;;;
+
+EMAIL;type=INTERNET,pref:matheuscml1@hotmail.com
+TEL;type=CELL,voice:81998786373
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Maurício Santos Gusmão Júnior 
+N:;Maurício Santos Gusmão Júnior;;;
+
+EMAIL;type=INTERNET,pref:gusmaojunior@hotmail.com
+TEL;type=CELL,voice:87996074977
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Mauro Alencar de Barros 
+N:;Mauro Alencar de Barros;;;
+
+EMAIL;type=INTERNET,pref:mauromab@hotlink.com.br
+TEL;type=CELL,voice:81991626697
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Max Cavalcanti de Albuquerque 
+N:;(Aps) Max Cavalcanti de Albuquerque;;;
+
+EMAIL;type=INTERNET,pref:maxcavalcanti@uol.com.br
+TEL;type=CELL,voice:82999836079
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Milena Flores Ferraz Cintra 
+N:;Milena Flores Ferraz Cintra;;;
+
+EMAIL;type=INTERNET,pref:milenacintra_716@hotmail.com
+TEL;type=CELL,voice:87988061844
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Milton José Neves 
+N:;(Aps) Milton José Neves;;;
+
+EMAIL;type=INTERNET,pref:mjneves@hotlink.com.br
+TEL;type=CELL,voice:81999793754
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Milton Santana Lima Filho 
+N:;Milton Santana Lima Filho;;;
+
+EMAIL;type=INTERNET,pref:limsantana@bol.com.br
+TEL;type=CELL,voice:81996201162
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Mirella Patrício da Costa Neiva 
+N:;Mirella Patrício da Costa Neiva;;;
+
+EMAIL;type=INTERNET,pref:mirellaneiva@gmail.com
+TEL;type=CELL,voice:81982805005
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Mirna dos Anjos Tenório de Melo Gusmão 
+N:;Mirna dos Anjos Tenório de Melo Gusmão;;;
+
+EMAIL;type=INTERNET,pref:mirnadosanjos@yahoo.com.br
+TEL;type=CELL,voice:81996661681
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Moacir Ribeiro da Silva Júnior 
+N:;Moacir Ribeiro da Silva Júnior;;;
+
+EMAIL;type=INTERNET,pref:moaciribeiros@gmail.com
+TEL;type=CELL,voice:81988630501
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Monica  Wanderley Cavalcanti Magalhães 
+N:;Monica  Wanderley Cavalcanti Magalhães;;;
+
+EMAIL;type=INTERNET,pref:monicawcavalcanti@ig.com.br
+TEL;type=CELL,voice:87999226202
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Nahiane Ramalho de Mattos 
+N:;Nahiane Ramalho de Mattos;;;
+
+EMAIL;type=INTERNET,pref:nahiane_mattos@yahoo.com.br
+TEL;type=CELL,voice:81995340684
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Naiana Lima Cunha 
+N:;Naiana Lima Cunha;;;
+
+EMAIL;type=INTERNET,pref:naianalimadv@gmail.com
+TEL;type=CELL,voice:81992919928
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Nailton Max de Brito e Silva 
+N:;(Aps) Nailton Max de Brito e Silva;;;
+
+EMAIL;type=INTERNET,pref:nailtonmaxdebrito10@hotmail.com
+TEL;type=CELL,voice:81992629750
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Nehemias de Moura Tenório 
+N:;Nehemias de Moura Tenório;;;
+
+EMAIL;type=INTERNET,pref:nehemiasmt@hotmail.com
+TEL;type=CELL,voice:81991415511
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Nelma Ferraz de Carvalho da Silva 
+N:;Nelma Ferraz de Carvalho da Silva;;;
+
+TEL;type=CELL,voice:81991982722
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Nicolau Loureiro Lopes da Silva Neto 
+N:;(Aps) Nicolau Loureiro Lopes da Silva Neto;;;
+
+EMAIL;type=INTERNET,pref:nicolaullopes@hotmail.com
+TEL;type=CELL,voice:87991617167
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Nicole de Faria Neves 
+N:;Nicole de Faria Neves;;;
+
+EMAIL;type=INTERNET,pref:nicolefn2@hotmail.com
+TEL;type=CELL,voice:81999756782
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Nildo Nery dos Santos 
+N:;(Aps) Nildo Nery dos Santos;;;
+
+EMAIL;type=INTERNET,pref:gnildo@tjpe.gov.br
+TEL;type=CELL,voice:81999717510
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Nildo Nery dos Santos Filho 
+N:;Nildo Nery dos Santos Filho;;;
+
+EMAIL;type=INTERNET,pref:nildoneryfilho@gmail.com
+TEL;type=CELL,voice:81988330408
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Nilson Guerra Nery 
+N:;(Aps) Nilson Guerra Nery;;;
+
+EMAIL;type=INTERNET,pref:guerranery@hotmail.com
+TEL;type=CELL,voice:81999717626
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Odilon de Oliveira Neto 
+N:;Odilon de Oliveira Neto;;;
+
+EMAIL;type=INTERNET,pref:odilonneto19@hotmail.com
+TEL;type=CELL,voice:81999736899
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Orleide Rosélia Nascimento Silva 
+N:;Orleide Rosélia Nascimento Silva;;;
+
+EMAIL;type=INTERNET,pref:orleide.roselia@tjpe.jus.br
+TEL;type=CELL,voice:81999681068
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Osman Benício de Holanda Cavalcanti 
+N:;(Aps) Osman Benício de Holanda Cavalcanti;;;
+
+EMAIL;type=INTERNET,pref:anacristinach@hotmail.com
+TEL;type=CELL,voice:81996386989
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ossamu Eber Narita 
+N:;Ossamu Eber Narita;;;
+
+EMAIL;type=INTERNET,pref:ossamu.narita@hotmail.com
+TEL;type=CELL,voice:81999085145
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Otávio Ribeiro Pimentel 
+N:;Otávio Ribeiro Pimentel;;;
+
+EMAIL;type=INTERNET,pref:pimentelotavio@ig.com.br
+TEL;type=CELL,voice:81999970215
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Otoniel Ferreira dos Santos 
+N:;Otoniel Ferreira dos Santos;;;
+
+EMAIL;type=INTERNET,pref:otonielferreira@globo.com
+TEL;type=CELL,voice:81991631014
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Pablo de Oliveira Santos 
+N:;Pablo de Oliveira Santos;;;
+
+TEL;type=CELL,voice:84991262322
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Patricia Caiaffo de Freitas Arroxelas Galvão 
+N:;Patricia Caiaffo de Freitas Arroxelas Galvão;;;
+
+EMAIL;type=INTERNET,pref:patriciacaiaffo@terra.com.br
+TEL;type=CELL,voice:81999792288
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Patrícia Rodrigues Ramos Galvão 
+N:;Patrícia Rodrigues Ramos Galvão;;;
+
+EMAIL;type=INTERNET,pref:patgalvao2@hotmail.com
+TEL;type=CELL,voice:81999742202
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Patrícia Xavier de Figueirêdo Lima 
+N:;Patrícia Xavier de Figueirêdo Lima;;;
+
+EMAIL;type=INTERNET,pref:patriciaflima@oi.com.br
+TEL;type=CELL,voice:81992421290
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Paula Maria Malta Teixeira do Rego 
+N:;Paula Maria Malta Teixeira do Rego;;;
+
+EMAIL;type=INTERNET,pref:hprego@hotlink.com.br
+TEL;type=CELL,voice:81999723475
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Paulo Alves de Lima 
+N:;Paulo Alves de Lima;;;
+
+EMAIL;type=INTERNET,pref:primeiravaradacomarcadebezerros@hotmail.com
+TEL;type=CELL,voice:81992474727
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Paulo Cesar Oliveira de Amorim 
+N:;Paulo Cesar Oliveira de Amorim;;;
+
+EMAIL;type=INTERNET,pref:p.c.o.a@hotmail.com
+TEL;type=CELL,voice:81982326831
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Paulo de Oliveira Menezes 
+N:;(Aps) Paulo de Oliveira Menezes;;;
+
+EMAIL;type=INTERNET,pref:pmenezespab19@yahoo.com
+TEL;type=CELL,voice:81999663880
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Paulo de Tarso Duarte Menezes 
+N:;Paulo de Tarso Duarte Menezes;;;
+
+EMAIL;type=INTERNET,pref:ptdmenezes@gmail.com
+TEL;type=CELL,voice:88992236460
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Paulo Francisco da Costa 
+N:;(Aps) Paulo Francisco da Costa;;;
+
+EMAIL;type=INTERNET,pref:oficio1depaudalho@hotmail.com
+TEL;type=CELL,voice:81986526652
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Paulo Henrique Martins Machado 
+N:;Paulo Henrique Martins Machado;;;
+
+EMAIL;type=INTERNET,pref:machado@nlink.com.br
+TEL;type=CELL,voice:81997295700
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Paulo Roberto de Sousa Brandão 
+N:;Paulo Roberto de Sousa Brandão;;;
+
+EMAIL;type=INTERNET,pref:pr-brandao@uol.com.br
+TEL;type=CELL,voice:81999313773
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Paulo Romero de Sá Araújo 
+N:;Paulo Romero de Sá Araújo;;;
+
+EMAIL;type=INTERNET,pref:saara.paulo@gmail.com
+TEL;type=CELL,voice:81999736915
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Paulo Torres Pereira da Silva 
+N:;Paulo Torres Pereira da Silva;;;
+
+EMAIL;type=INTERNET,pref:paulotorresps@gmail.com
+TEL;type=CELL,voice:81999649045
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Paulo Victor Vasconcelos de Almeida 
+N:;Paulo Victor Vasconcelos de Almeida;;;
+
+EMAIL;type=INTERNET,pref:paulov_victor@yahoo.com.br
+TEL;type=CELL,voice:81999216370
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Pedro Fernandes de Oliveira 
+N:;(Aps) Pedro Fernandes de Oliveira;;;
+
+EMAIL;type=INTERNET,pref:fernandesdeoliveiraadvogados@yahoo.com.br
+TEL;type=CELL,voice:81999481486
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Pedro Odilon de Alencar Luz 
+N:;Pedro Odilon de Alencar Luz;;;
+
+EMAIL;type=INTERNET,pref:poaluz@gmail.com
+TEL;type=CELL,voice:81999761733
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Petrúcio Roberto Tobias Granja 
+N:;(Aps) Petrúcio Roberto Tobias Granja;;;
+
+EMAIL;type=INTERNET,pref:granjapetrucio@yahoo.com.br
+TEL;type=CELL,voice:81997766420
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Pierre Souto Maior Coutinho de Amorim 
+N:;Pierre Souto Maior Coutinho de Amorim;;;
+
+EMAIL;type=INTERNET,pref:pierrelpj@yahoo.com.br
+TEL;type=CELL,voice:81991981129
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Pollyanna Maria Barbosa Pirauá Cotrim 
+N:;Pollyanna Maria Barbosa Pirauá Cotrim;;;
+
+EMAIL;type=INTERNET,pref:pollyanna.piraua@tjpe.jus.br
+TEL;type=CELL,voice:87988371809
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Priscila Maria de Sá Torres 
+N:;Priscila Maria de Sá Torres;;;
+
+EMAIL;type=INTERNET,pref:pris_t_b@hotmail.com
+TEL;type=CELL,voice:81981751057
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Priscila Vasconcelos Areal Cabral Farias Patriota 
+N:;Priscila Vasconcelos Areal Cabral Farias Patriota;;;
+
+EMAIL;type=INTERNET,pref:vasfarias@hotmail.com
+TEL;type=CELL,voice:81998159200
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Rafael Carlos de Morais 
+N:;Rafael Carlos de Morais;;;
+
+EMAIL;type=INTERNET,pref:rafael-morais@hotmail.com
+TEL;type=CELL,voice:81981741111
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Rafael Cavalcanti Lemos 
+N:;Rafael Cavalcanti Lemos;;;
+
+EMAIL;type=INTERNET,pref:racale@hotmail.com
+TEL;type=CELL,voice:81988253103
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Rafael José de Menezes 
+N:;Rafael José de Menezes;;;
+
+EMAIL;type=INTERNET,pref:rafael.juiz@gmail.com
+TEL;type=CELL,voice:81999721302
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Rafael Machado da Cunha Cavalcanti 
+N:;Rafael Machado da Cunha Cavalcanti;;;
+
+EMAIL;type=INTERNET,pref:rmccavalcanti@ig.com.br
+TEL;type=CELL,voice:81999761708
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Rafael Medeiros Antunes Ferreira 
+N:;Rafael Medeiros Antunes Ferreira;;;
+
+EMAIL;type=INTERNET,pref:rafael.medeiros@tjpe.jus.br
+TEL;type=CELL,voice:81991323247
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Rafael Sindoni Feliciano 
+N:;Rafael Sindoni Feliciano;;;
+
+EMAIL;type=INTERNET,pref:rafaelsindoni83@hotmail.com
+TEL;type=CELL,voice:81999367596
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Raquel Barofaldi Bueno 
+N:;Raquel Barofaldi Bueno;;;
+
+EMAIL;type=INTERNET,pref:raquelbbueno@hotmail.com
+TEL;type=CELL,voice:87981206099
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Raquel Toledo Fernandes Raposo 
+N:;Raquel Toledo Fernandes Raposo;;;
+
+EMAIL;type=INTERNET,pref:rtfr1@hotmail.com
+TEL;type=CELL,voice:81999520776
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Reginaldo Alves de Andrade 
+N:;(Aps) Reginaldo Alves de Andrade;;;
+
+EMAIL;type=INTERNET,pref:ralvesandrade@hotmail.com
+TEL;type=CELL,voice:81985539199
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Renata da Costa Lima Caldas Machado 
+N:;Renata da Costa Lima Caldas Machado;;;
+
+EMAIL;type=INTERNET,pref:renatamachado@oi.com.br
+TEL;type=CELL,voice:81992624427
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Ricardo de Sá Leitão Alencar Júnior 
+N:;Ricardo de Sá Leitão Alencar Júnior;;;
+
+EMAIL;type=INTERNET,pref:ricardosl@gmail.com
+TEL;type=CELL,voice:81988513625
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Ricardo Pessoa dos Santos 
+N:;(Aps) Ricardo Pessoa dos Santos;;;
+
+EMAIL;type=INTERNET,pref:ricardo.psantos@uol.com.br
+TEL;type=CELL,voice:81999692009
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Rildo Vieira da Silva 
+N:;Rildo Vieira da Silva;;;
+
+EMAIL;type=INTERNET,pref:rildovs@hotlink.com.br
+TEL;type=CELL,voice:81999211304
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Rinaldo Adilson de Souza 
+N:;(Aps) Rinaldo Adilson de Souza;;;
+
+EMAIL;type=INTERNET,pref:rinaldomagister@hotmail.com
+TEL;type=CELL,voice:87999266942
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Rivadávia Brayner de Melo Rangel 
+N:;(Aps) Rivadávia Brayner de Melo Rangel;;;
+
+EMAIL;type=INTERNET,pref:rivadaviabrayner@ibest.com.br
+TEL;type=CELL,voice:81999131409
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Roberta Barcala Batista Coutinho 
+N:;Roberta Barcala Batista Coutinho;;;
+
+EMAIL;type=INTERNET,pref:robertabarcala@gmail.com
+TEL;type=CELL,voice:81988740809
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Roberta Vasconcelos Franco Nogueira 
+N:;Roberta Vasconcelos Franco Nogueira;;;
+
+EMAIL;type=INTERNET,pref:roberta_franco@yahoo.com.br
+TEL;type=CELL,voice:81999752555
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Roberta Viana Jardim 
+N:;Roberta Viana Jardim;;;
+
+EMAIL;type=INTERNET,pref:robertavj@zipmail.com.br
+TEL;type=CELL,voice:81999768220
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Roberto Carneiro Pedrosa 
+N:;Roberto Carneiro Pedrosa;;;
+
+EMAIL;type=INTERNET,pref:robertocpedrosa@uol.com.br
+TEL;type=CELL,voice:81991749603
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Roberto Costa Bivar 
+N:;Roberto Costa Bivar;;;
+
+EMAIL;type=INTERNET,pref:robertobivar@gmail.com
+TEL;type=CELL,voice:81988944565
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Roberto da Silva Maia 
+N:;Roberto da Silva Maia;;;
+
+EMAIL;type=INTERNET,pref:rsmaia@yahoo.com
+TEL;type=CELL,voice:81999690103
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Roberto Ferreira Lins 
+N:;Roberto Ferreira Lins;;;
+
+EMAIL;type=INTERNET,pref:robertolins@globo.com
+TEL;type=CELL,voice:81996014573
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Roberto Jordão de Vasconcelos 
+N:;Roberto Jordão de Vasconcelos;;;
+
+EMAIL;type=INTERNET,pref:roberto-jordao@hotmail.com
+TEL;type=CELL,voice:81991033443
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Robinson José de Albuquerque Lima 
+N:;Robinson José de Albuquerque Lima;;;
+
+EMAIL;type=INTERNET,pref:robinsonlima2008@hotmail.com
+TEL;type=CELL,voice:81999943994
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Rodrigo Caldas do Valle Viana 
+N:;Rodrigo Caldas do Valle Viana;;;
+
+EMAIL;type=INTERNET,pref:valleviana@hotmail.com
+TEL;type=CELL,voice:81997145559
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Rodrigo Fonseca Lins de Oliveira 
+N:;Rodrigo Fonseca Lins de Oliveira;;;
+
+EMAIL;type=INTERNET,pref:rodrigolins10@hotmail.com
+TEL;type=CELL,voice:81991644512
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Romão Ulisses Sampaio 
+N:;Romão Ulisses Sampaio;;;
+
+EMAIL;type=INTERNET,pref:romaoulisses@hotmail.com
+TEL;type=CELL,voice:81988081404
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Rommel Silva Patriota 
+N:;Rommel Silva Patriota;;;
+
+EMAIL;type=INTERNET,pref:rommelpatriota@hotmail.com
+TEL;type=CELL,voice:81996446090
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Rômulo Gomes Falcão 
+N:;(Aps) Rômulo Gomes Falcão;;;
+
+EMAIL;type=INTERNET,pref:romulofalcaoadvocacia@hotmail.com
+TEL;type=CELL,voice:81992725773
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Rosalvo Maia Soares 
+N:;Rosalvo Maia Soares;;;
+
+EMAIL;type=INTERNET,pref:rmaiasoares@globo.com
+TEL;type=CELL,voice:81988572012
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Rúbia Celeste Cabral Pereira Tavares de Melo 
+N:;Rúbia Celeste Cabral Pereira Tavares de Melo;;;
+
+EMAIL;type=INTERNET,pref:rubia_celeste@hotmail.com
+TEL;type=CELL,voice:81996610223
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Sander Fitney Brandão de Menezes Correia 
+N:;Sander Fitney Brandão de Menezes Correia;;;
+
+EMAIL;type=INTERNET,pref:sander@hotlink.com.br
+TEL;type=CELL,voice:81996270011
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Sandoval José de Assis e Silva 
+N:;(Aps) Sandoval José de Assis e Silva;;;
+
+EMAIL;type=INTERNET,pref:sandovalassis@rce.neoline.com.br
+TEL;type=CELL,voice:81987040399
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Sandra de Arruda Beltrão Prado 
+N:;Sandra de Arruda Beltrão Prado;;;
+
+EMAIL;type=INTERNET,pref:sandrabeltrao@yahoo.com.br
+TEL;type=CELL,voice:81999739150
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Saulo Sebastião de Oliveira Freire 
+N:;Saulo Sebastião de Oliveira Freire;;;
+
+TEL;type=CELL,voice:81999739560
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Sebastião de Siqueira Souza 
+N:;Sebastião de Siqueira Souza;;;
+
+EMAIL;type=INTERNET,pref:sebastiao.siqueira@tjpe.jus.br
+TEL;type=CELL,voice:81999729745
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Sérgio Azevedo de Oliveira 
+N:;Sérgio Azevedo de Oliveira;;;
+
+EMAIL;type=INTERNET,pref:sao-ju@hotmail.com
+TEL;type=CELL,voice:81999760427
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Sérgio José Vieira Lopes 
+N:;Sérgio José Vieira Lopes;;;
+
+EMAIL;type=INTERNET,pref:sjvl68@gmail.com
+TEL;type=CELL,voice:81999522537
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Sérgio Marinho Falcão 
+N:;(Aps) Sérgio Marinho Falcão;;;
+
+EMAIL;type=INTERNET,pref:falcon51@terra.com.br
+TEL;type=CELL,voice:81999042600
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Sérgio Paulo Ribeiro da Silva 
+N:;Sérgio Paulo Ribeiro da Silva;;;
+
+EMAIL;type=INTERNET,pref:sergioprsilva@globo.com
+TEL;type=CELL,voice:81999227521
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Severiano de Lemos Antunes Junior 
+N:;Severiano de Lemos Antunes Junior;;;
+
+EMAIL;type=INTERNET,pref:severiano.antunes@tjpe.jus.br
+TEL;type=CELL,voice:81999896403
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Severino Bezerra do Nascimento 
+N:;(Aps) Severino Bezerra do Nascimento;;;
+
+EMAIL;type=INTERNET,pref:severobeza@hotmail.com
+TEL;type=CELL,voice:83999660984
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Severino Rodrigues de Sousa 
+N:;Severino Rodrigues de Sousa;;;
+
+EMAIL;type=INTERNET,pref:severinorodrigues1974@hotmail.com
+TEL;type=CELL,voice:81997235540
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Severino Tenório Pinto 
+N:;(Aps) Severino Tenório Pinto;;;
+
+TEL;type=CELL,voice:87996268803
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Silvânia Espéria da Silva 
+N:;(Aps) Silvânia Espéria da Silva;;;
+
+EMAIL;type=INTERNET,pref:esperia@uol.com.br
+TEL;type=CELL,voice:81992121936
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Sílvia Maria de Lima Oliveira 
+N:;Sílvia Maria de Lima Oliveira;;;
+
+EMAIL;type=INTERNET,pref:silviamloliveira@hotmail.com
+TEL;type=CELL,voice:81995896666
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Sílvio Roberto Pessoa de Rezende 
+N:;(Aps) Sílvio Roberto Pessoa de Rezende;;;
+
+TEL;type=CELL,voice:81999552874
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Simone Cristina Barros 
+N:;Simone Cristina Barros;;;
+
+EMAIL;type=INTERNET,pref:simonecristinajmas@yahoo.com.br
+TEL;type=CELL,voice:81988473123
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Sócrates Otávio de França e Silva 
+N:;(Aps) Sócrates Otávio de França e Silva;;;
+
+EMAIL;type=INTERNET,pref:socratesfranca@oi.com.br
+TEL;type=CELL,voice:81999899870
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Solon Otávio de França 
+N:;Solon Otávio de França;;;
+
+EMAIL;type=INTERNET,pref:solonotavio@bol.com.br
+TEL;type=CELL,voice:81999520071
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Sônia Maria Pereira Guerra 
+N:;(Aps) Sônia Maria Pereira Guerra;;;
+
+EMAIL;type=INTERNET,pref:napoleaot@uol.com.br
+TEL;type=CELL,voice:81986913224
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Sonia Stamford Magalhães Melo 
+N:;Sonia Stamford Magalhães Melo;;;
+
+EMAIL;type=INTERNET,pref:sonia.melo@tjpe.jus.br
+TEL;type=CELL,voice:81999260200
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Stella Maria Mendes Gomes de Sá Leitão 
+N:;(Aps) Stella Maria Mendes Gomes de Sá Leitão;;;
+
+EMAIL;type=INTERNET,pref:stella_saleitao@htomail.com
+TEL;type=CELL,voice:81987393987
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Sydnei Alves Daniel 
+N:;Sydnei Alves Daniel;;;
+
+EMAIL;type=INTERNET,pref:sydnei_daniel@hotmail.com
+TEL;type=CELL,voice:87991737005
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Sylvio Paz Galdino de Lima 
+N:;Sylvio Paz Galdino de Lima;;;
+
+EMAIL;type=INTERNET,pref:sylvio.galdino@gmail.com
+TEL;type=CELL,voice:81987389036
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Tatiana Lapa Carneiro Leão 
+N:;Tatiana Lapa Carneiro Leão;;;
+
+EMAIL;type=INTERNET,pref:taticleao@hotmail.com
+TEL;type=CELL,voice:81992583000
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Teodomiro Noronha Cardozo 
+N:;Teodomiro Noronha Cardozo;;;
+
+EMAIL;type=INTERNET,pref:teodomiro80@hotmail.com
+TEL;type=CELL,voice:81992791102
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Thiago Fernandes Cintra 
+N:;Thiago Fernandes Cintra;;;
+
+EMAIL;type=INTERNET,pref:thiagocintra@yahoo.com
+TEL;type=CELL,voice:87999222690
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Thiago Meirelles Silva dos Santos 
+N:;Thiago Meirelles Silva dos Santos;;;
+
+TEL;type=CELL,voice:21996367702
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Thiago Pacheco Cavalcanti 
+N:;Thiago Pacheco Cavalcanti;;;
+
+EMAIL;type=INTERNET,pref:thiago_pacheco777@hotmail.com
+TEL;type=CELL,voice:87999996775
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Tito Lívio Araújo Monteiro 
+N:;Tito Lívio Araújo Monteiro;;;
+
+EMAIL;type=INTERNET,pref:tlam@terra.com.br
+TEL;type=CELL,voice:81988870626
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Tomás de Aquino Pereira de Araújo 
+N:;Tomás de Aquino Pereira de Araújo;;;
+
+EMAIL;type=INTERNET,pref:tomas.aquino@tjpe.jus.br
+TEL;type=CELL,voice:81988072333
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Torricelli Lopes Lira 
+N:;Torricelli Lopes Lira;;;
+
+EMAIL;type=INTERNET,pref:torriccelli@hotmail.com
+TEL;type=CELL,voice:81981615514
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Uraquitan José dos Santos 
+N:;Uraquitan José dos Santos;;;
+
+EMAIL;type=INTERNET,pref:uraquitansantos@hotmail.com 
+TEL;type=CELL,voice:81999694262
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Valdelício Francisco da Silva 
+N:;Valdelício Francisco da Silva;;;
+
+EMAIL;type=INTERNET,pref:valdelicio_francisco@hotmail.com
+TEL;type=CELL,voice:81994713433
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Valdereys Ferraz Torres de Oliveira 
+N:;Valdereys Ferraz Torres de Oliveira;;;
+
+EMAIL;type=INTERNET,pref:valoliv4@hotmail.com
+TEL;type=CELL,voice:81999798838
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Valéria Bezerra Pereira Wanderley 
+N:;Valéria Bezerra Pereira Wanderley;;;
+
+EMAIL;type=INTERNET,pref:lelawanderley@uol.com.br
+TEL;type=CELL,voice:81988128809
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Valéria Maria de Lima Melo Estima 
+N:;Valéria Maria de Lima Melo Estima;;;
+
+EMAIL;type=INTERNET,pref:melolela@ig.com.br
+TEL;type=CELL,voice:81999599188
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Valéria Maria Santos Máximo 
+N:;Valéria Maria Santos Máximo;;;
+
+EMAIL;type=INTERNET,pref:vmsmaximo@hotmail.com
+TEL;type=CELL,voice:81999634691
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Valéria Rúbia Silva Duarte 
+N:;Valéria Rúbia Silva Duarte;;;
+
+EMAIL;type=INTERNET,pref:vrsd@hotmail.com
+TEL;type=CELL,voice:81999719891
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Vanilson Guimarães de Santana Junior 
+N:;Vanilson Guimarães de Santana Junior;;;
+
+TEL;type=CELL,voice:81996542179
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Verônica Gómez Lourenço 
+N:;Verônica Gómez Lourenço;;;
+
+EMAIL;type=INTERNET,pref:veronica.gomez@tjpe.jus.br
+TEL;type=CELL,voice:81998178141
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Virgínia Gondim Dantas Rodrigues 
+N:;Virgínia Gondim Dantas Rodrigues;;;
+
+EMAIL;type=INTERNET,pref:virginia.gondim@yahoo.com.br
+TEL;type=CELL,voice:81999524200
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Virgínio Marques Carneiro Leão 
+N:;Virgínio Marques Carneiro Leão;;;
+
+EMAIL;type=INTERNET,pref:virginioleao@gmail.com
+TEL;type=CELL,voice:81999738979
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Vladimir Alves e Silva 
+N:;Vladimir Alves e Silva;;;
+
+EMAIL;type=INTERNET,pref:vlad-2008@hotmail.com
+TEL;type=CELL,voice:81989202023
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Waldemir Oliveira Lins 
+N:;(Aps) Waldemir Oliveira Lins;;;
+
+EMAIL;type=INTERNET,pref:dwaldem@tjpe.gov.br
+TEL;type=CELL,voice:81992424277
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Waldemiro de Araújo Lima Neto 
+N:;Waldemiro de Araújo Lima Neto;;;
+
+EMAIL;type=INTERNET,pref:waldemiro.aln@hotmail.com
+TEL;type=CELL,voice:81999698835
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Walmir Ferreira Leite 
+N:;Walmir Ferreira Leite;;;
+
+EMAIL;type=INTERNET,pref:wf-leite@uol.com.br
+TEL;type=CELL,voice:81999964328
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Wellington Gadelha de Freitas 
+N:;(Aps) Wellington Gadelha de Freitas;;;
+
+EMAIL;type=INTERNET,pref:wellington_gadelha@yahoo.com.br
+TEL;type=CELL,voice:81996018809
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Wilka Pinto Vilela Domingues da Silva 
+N:;Wilka Pinto Vilela Domingues da Silva;;;
+
+EMAIL;type=INTERNET,pref:wilkavilela@gmail.com
+TEL;type=CELL,voice:81999982700
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Wilson Mota Valença 
+N:;(Aps) Wilson Mota Valença;;;
+
+TEL;type=CELL,voice:81988571141
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:(Aps) Zamir Machado Fernandes 
+N:;(Aps) Zamir Machado Fernandes;;;
+
+EMAIL;type=INTERNET,pref:dzamir@tjpe.gov.br
+TEL;type=CELL,voice:81999739949
+TZ:-0300
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vCard from WhatsAPI//NONSGML Version 1//EN
+REV:2016-10-13 15:04:49
+FN:Zélia Maria Pereira de Melo 
+N:;Zélia Maria Pereira de Melo;;;
+
+EMAIL;type=INTERNET,pref:zeliamariamelo@hotmail.com
+TEL;type=CELL,voice:87996336245
+TZ:-0300
+END:VCARD

@@ -1,0 +1,130 @@
+#main {
+	display: block !important;
+}
+#main > header h1{
+	padding-bottom: 0.6em !important;
+}
+#form_contato{
+	width:41.66%;
+	margin-top:3em;
+	float:left;
+}
+#form_contato ul{
+	display: block
+}
+#form_contato ul li {
+	font-family:Arial,Verdana,sans-serif;
+	font-size:1.6em;
+	text-align:left;
+	color:#333;
+	margin:20px 0;
+	list-style:none;
+	position:relative;
+	clear:both;
+}
+
+#form_contato label {
+	margin:0.5em 1em 0.5em 0;
+	line-height:35px;
+	width:80px;
+	text-align:left;
+	float:left;
+	color:#333;
+}
+
+#form_contato input#input_nome, #form_contato input#input_email, #form_contato input#input_assunto, #form_contato textarea, #form_contato #select_destino {
+	font-family:Arial,Verdana,sans-serif;
+	font-size:1em;
+	float:left;
+	padding:10px;
+	border:1px solid #CCCCCC;
+	background:#fcfcfc;
+	border-radius:5px;
+	color:#333;
+}
+#form_contato input#input_nome, #form_contato input#input_email, #form_contato input#input_assunto {
+	width:350px;
+}
+
+#form_contato textarea {
+	width:400px;
+	height:80px;
+	resize:none;
+}
+
+#form_contato input {
+	color:#999;
+	float:left;
+}
+
+#form_contato input#bt_enviar {
+	width:100px;
+	height:40px;
+	margin:20px 0 0 96px;
+	cursor:pointer;
+	font-size:13px;
+	color:#f6f6f6;
+	background:#01224d;
+	border:1px solid #ccc;
+	border-radius:5px;
+}
+
+#form_contato input#bt_enviar:hover {
+	color:#fff;
+	border-color:#01224d;
+}		
+
+#enderecos{
+	float:right;
+	width:41.66%;
+	height:auto;
+	margin-top:4.2em;
+}
+		#enderecos h1{
+			font-family:Arial,Verdana,sans-serif;
+			font-size:2.2em;
+			text-align:left;
+			color:#333;
+			text-decoration:underline;
+		}
+		#enderecos ul{
+			list-style:none;
+			margin-top:3em;
+		}
+			#enderecos ul li{
+				font-family:Arial,Verdana,sans-serif;
+				color:#333;
+				font-size:1.4em;
+				margin-bottom:1.5em;
+			}
+			#enderecos ul li h6{
+				font-family:Arial,Verdana,sans-serif;
+				color:#333;
+				font-size:1.3em;
+				font-weight:500;
+				margin: -0.1em 0.5em 0.5em 0;
+			}
+@media (max-width: 1000px){
+#form_contato {
+    width: 100%;
+    margin-top: 3em;
+    float: none;
+}
+
+#enderecos {
+    height: auto;
+    width: 100%;
+    clear: both;
+    margin-top: 4.2em;
+    padding-top: 8em;
+    float: none;
+}
+
+#form_contato textarea {
+    width: 100%;
+    height: 80px;
+    resize: none;
+}
+
+}
+		

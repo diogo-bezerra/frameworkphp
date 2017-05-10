@@ -1,0 +1,17 @@
+{logo}
+
+<font color='#00458A'><b>Requisição de cadastro</b></font>
+<hr width='300px' align='left' />
+Bem vindo ao <font color='#00458A'><strong>Site</strong></font>.
+
+Para dar continuidade ao seu processo de cadastro, clique no link abaixo.
+
+<a href='{dir_raiz}/?vs=cadastro||cod_email={cod_email}||email_cad={email_cad}' target='_blank'>Clique aqui para continuar seu cadastro </a>
+
+<strong>Atenção</strong>: Caso não consiga continuar o cadastro através do link, utilize o endereço descrito abaixo,
+<br /> copiando-o na barra de endereços do seu navegador de internet.
+
+<font color='#FF0000'>{dir_raiz}/?vs=cadastro||cod_email={cod_email}||email_cad={email_cad}</font>
+
+<hr/>
+<font size='-1'><a href='{dir_raiz}' target='_blank'><font color='#0066CC'><b>...</b></a></font></font>       	

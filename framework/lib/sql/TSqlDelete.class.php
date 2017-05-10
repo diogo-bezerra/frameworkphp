@@ -1,0 +1,21 @@
+<?php
+
+// Usada para criação e manipulação de instruções DELETE
+final class TSqlDelete extends TSqlInstrucao {
+
+    // Retorna a instrunção montada
+    public function getInstrucao() {
+        $this->sql = "DELETE FROM {$this->tabela}";
+        // Retorna a cláusula WHERE do objeto $this->criterio
+        if ($this->clausula) {
+            $expressao = $this->clausula->dump();
+            if ($expressao) {
+                $this->sql .= ' WHERE ' . $expressao;
+            }
+        }
+        return $this->sql;
+    }
+
+}
+
+?>

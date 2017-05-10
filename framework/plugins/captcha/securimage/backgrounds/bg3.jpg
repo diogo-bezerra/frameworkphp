@@ -1,0 +1,104 @@
+<?php
+class Segmento
+{
+	private $id; // Id do segmento
+	private $nome; // Nome do segmento
+	
+	function __construct($id = null){
+		if(!is_null($id) and is_numeric($id) and $id > 0){
+      $this->id = $id;
+      self::getSegmento(array('id'=>$id),TRUE);
+    }
+		# Head::setScripts('app.controle/js/Segemento.js');
+	}
+	
+	function __destruct(){
+		# echo "<br /> <br /> Objeto destruído";
+	}
+	
+  // Retorna o repositório da classe
+  function BD(){
+    return new ReposSegmento();
+	}
+  
+	// Retorna um atributo
+	function get($nome_atributo){
+		return $this->$nome_atributo;
+	}
+	
+	// Define um atributo
+	function set($nome_atributo,$novo_valor){
+		$this->$nome_atributo = $novo_valor;
+	}
+	
+	// Atualiza os atributos que estiverem definidos de um segmento no banco de dados.
+	function setBd(){
+		$this->BD()->update(0,$this);
+	}
+	
+	// Define todos os atributos de um objeto Segmento com os valores retornados do BD. O array passado deve ter todos os atributos. @param(array com resultado do banco)
+	function setSegmento($arrayResult){
+		$this->id = $arrayResult['id'];
+		$this->nome = $arrayResult['nome'];
+	}
+	
+	// Retorna um Segmento do BD
+	function getSegmento($id = NULL){
+		// Se o id não for nulo, busca no bd o Segmento referente ao id e cria o objeto definindo os atributos do Segmento selecionado.
+		if(!is_null($id)){
+			$rs = $this->BD()->select(0,$id);
+			if($rs){
+				$seg = $rs->fetch(PDO::FETCH_ASSOC);
+				
+				$this->id = $seg['id'];
+				$this->nome = $seg['nome'];
+			}else{
+				$err = new Erro();
+				$err->dieProcess('Segmento '.$id.' não existe.');
+			}
+		}else{
+			$err = new Erro();
+			$err->dieProcess('Falta conexão ou id para o Segmento (Segmento.class)');
+		}
+	}
+  
+  function getTodosSegmentos($erro = FALSE){
+    // Se o id ou a conexão não forem nulos, busca no bd o Segmento referente ao id e cria o objeto definindo os atributos do Segmento selecionado.
+		//$array[] = array('1','Todos os Segmentos');
+    $rs = $this->BD()->select(1);
+		if($rs){
+      foreach($rs as $valor){
+        $array[] = $valor; 
+  		}
+    }else{
+      if($erro){
+        $err = new Erro();
+        $err->dieProcess('Nenhum segmento encontrado.');
+      }  
+    }
+    return $array;
+  }
+  
+  // Retorna somente os segmentos nos quais existe mídia ativa 
+  function getMidiaSegmentos($erro = FALSE){
+    $array[] = array('0','Todos os Segmentos');
+    $rs = $this->BD()->select(2);
+		if($rs){
+      foreach($rs as $valor){
+        $array[] = $valor; 
+  		}
+    }else{
+      if($erro){
+        $err = new Erro();
+        $err->dieProcess('Nenhum segmento encontrado.');
+      }      
+    }
+    return $array; 
+  }
+	
+	// Insere um segmento no banco. @param(conexao)
+	function insertBD(){
+		$this->BD()->insert($this);
+	}
+}
+?>

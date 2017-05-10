@@ -1,0 +1,91 @@
+<div align="center">
+	<div align="center" style="width: 1000px; height: 600px;">
+		<hr />
+		<div id="divContato">
+			<div class="fonte01_4_azul">
+				<blockquote>Envie-nos seu contato atrav&eacute;s do
+					formul&aacute;rio abaixo</blockquote>
+			</div>
+			<div id="div_msgerro">
+			</div>
+			<div style="position: absolute; top: 190px; left: 550px;">
+				<form id="form_contato" name="form_contato" method="post">
+					<div align="left" class="fonte01_4_azul"
+						style="position: absolute; top: 67px; left: 0px; width: 145px;">
+						<b>* Nome</b>
+					</div>
+					<input id="input_nome" class="inputCustom fonte01_4_cinza obrg"
+						type="text" maxlength="40"
+						onkeyup="segurancaSql(this.value,'input_nome')"
+						style="position: absolute; left: 171px; top: 62px; width: 220px;"
+						value="Contato" />
+					<div align="left" class="fonte01_4_azul"
+						style="position: absolute; top: 111px; left: 0px; width: 145px;">
+						<b>* Email</b>
+					</div>
+					<input id="input_email" class="inputCustom fonte01_4_cinza obrg"
+						type="text" maxlength="40"
+						onkeyup="segurancaSql(this.value,'input_email')"
+						style="position: absolute; left: 171px; top: 108px; width: 220px;"
+						value="email@email.com" />
+					<div align="left" class="fonte01_4_azul"
+						style="position: absolute; top: 158px; left: 0px; width: 145px;">
+						<b>* Estado</b>
+					</div>
+					<div id="div_select_uf" align="left" class="fonte01_4_azul"
+						style="position: absolute; top: 154px; left: 171px; width: 201px;"></div>
+					<div align="left" class="fonte01_4_azul"
+						style="position: absolute; top: 205px; left: 0px; width: 145px;">
+						<b>* Cidade</b>
+					</div>
+					<div id="div_select_cidade" align="left" class="fonte01_4_azul"
+						style="position: absolute; top: 200px; left: 171px; width: 201px;">
+						<input id="select_cidade" class="inputCustom fonte01_4_cinza obrg"
+							readonly="true" type="text" maxlength="40" value=""
+							style="width: 220px;" />
+					</div>
+					<div align="left" class="fonte01_4_azul"
+						style="position: absolute; top: 244px; left: 0px; width: 145px;">
+						<b>* Bairro</b>
+					</div>
+					<div id="div_select_bairro" align="left" class="fonte01_4_azul"
+						style="position: absolute; top: 251px; left: 171px; width: 201px;">
+						<input id="select_bairro" class="inputCustom fonte01_4_cinza obrg"
+							readonly="true" type="text" maxlength="40" value=""
+							style="width: 220px;" />
+					</div>
+					<div align="left" class="fonte01_4_azul"
+						style="position: absolute; top: 295px; left: 0px; width: 145px;">
+						<b>* Assunto</b>
+					</div>
+					<div id="div_tipo_contato" align="left" class="fonte01_4_azul"
+						style="position: absolute; top: 300px; left: 172px; width: 145px;">
+						<input id="input_assunto" class="inputCustom fonte01_4_cinza obrg"
+							type="text" maxlength="40" style="width: 220px" value="Contato" />
+					</div>
+					<div align="left" class="fonte01_4_azul"
+						style="position: absolute; top: 344px; left: 0px; width: 340px;">
+						<b>Texto</b><br />
+						<textarea id="textArea_mensagem" class="obrg" cols="50" rows="5"
+							onkeyup="contar_char(this,document.form_contato.contChar_textArea_mensagem,600);segurancaSql(this.value,'textArea_mensagem')">Contato</textarea>
+						<input id="contChar_textArea_mensagem" class="fonte01_3_cinza"
+							type="text" value="Caracteres 600" size="50" readonly="true"
+							style="border: 0px" />
+					</div>
+				</form>
+				<div
+					style="position: absolute; left: 8px; width: 537px; top: 500px; height: 66px;">
+					<hr />
+					<!-- No HTML 5 botões (<button>) devem ficar fora do <form>, senão funcionam como botões de submit -->
+					<button id="bt_form_contato_enviar">Enviar</button>
+					<button id="bt_voltar_home">Voltar</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	</form>
+</div>
+
+

@@ -1,0 +1,1037 @@
+@import "framework/plugins/fancybox/source/jquery.fancybox.css";
+/* CORPO DO SITE
+//////////////////////////////////////*/
+.main{
+	max-width:120em;
+	margin:0 auto;
+	padding-top:2em;
+}
+figure{
+	position:relative;
+	width:47.91%;
+	float:left;
+}
+	figure img{
+	  max-width:100%;
+	  min-height: 33.3em;
+	  max-height: 34em;
+	  min-width: 100%;
+	}
+figcaption{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 1.6em;
+	color: #FFF;
+	bottom:0.1em;
+	padding:0.8em;
+	position:absolute;
+	width:100%;
+	background:#000;
+	background-color:rgba(0,0,0, 0.5);
+	color:#FFF;
+}
+	figure figcaption small{
+		padding-top:2em;
+	}
+		figure figcaption small a{
+			text-decoration:none;
+			font-size:.8em;
+			color:#FFF;
+			padding-top:1em;
+		}
+		figure figcaption small a:hover{
+			text-decoration:underline;
+		}
+.noticias{
+	width:25%;
+	height:34em;
+	float:left;
+	margin-left:1.66%;
+}
+.cntNoticia{
+	width:100%;
+	height:8.4em;
+	max-height:8.4em;
+	box-sizing:border-box;
+	border-bottom:1px dotted #bebebe;
+	margin-bottom:1%;
+	padding-top:0.7em;
+}
+	.cntNoticia:last-child{
+		border:none;
+	}
+	.cntNoticia:first-child{
+		padding-top:0;
+	}
+	 .cntNoticia .cntImg{
+		width:31.66%;
+		float:left;
+		margin-right:2%;
+	}
+	.cntImg img{
+		width:100%;
+		max-height: 6.3em;
+	}
+	
+	.cntNoticia .cntH2{
+		width:66.34%;
+		float:right;
+		height:8.4em;
+		position:relative;
+	}
+.cntH2 h2 a{
+	text-decoration:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.4em;
+	font-weight:bold;
+	color:#01224d;
+}
+.cntH2 h2 a:hover{
+	text-decoration:underline;
+}
+	.cntH2 small{
+		bottom:0;
+		position:absolute;
+		margin-bottom:1.6em;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:1em;
+		font-style:italic;
+		color:#333;
+	}
+.mural{
+	width:24%;
+	height:37em;
+	float:right;
+	margin-left:1%;
+}
+	.mural header{
+		width:100%;
+		height:3.3em;
+		border-bottom:1px solid #94854d;
+	}
+		.mural header h1{
+			font-family:'Yanone Kaffeesatz',Arial,Verdana,sans-serif;
+			font-size:2.4em;
+			text-align:left;
+			color:#134172;
+			border-bottom:3px solid #01224d;
+			padding-bottom:0.15em;
+			display:inline;
+		}
+.mural ul{
+	width:100%;
+	height:3em;
+}
+	.mural ul li{
+		list-style:none;
+		border-bottom:1px dotted #bebebe;
+		padding-bottom:2%;
+		margin-top:2%;
+	}
+	.mural ul li:last-child{
+		border-bottom:none;
+	}
+		.mural ul li a{
+			font-family:Arial, Helvetica, sans-serif;
+			font-size:1.4em;
+			color:#333;
+			text-decoration:none;
+		}
+		.mural ul li a:hover{
+			color:#333;
+			text-decoration:underline;
+		}
+.mais-noticias{
+	width:25%;
+	height:2em;
+	text-align:center;
+	margin-bottom: 10em;
+	float:right;
+}
+
+
+	.mais-noticias h6{
+		width:200px;
+		height: 0.5em;
+		margin:0 auto;
+		font-family:Arial,Verdana,sans-serif;
+		font-size:1.2em;
+		background-color:#FFF;
+		border-bottom:1px solid #01224d;
+	}
+	.mais-noticias h6 a{
+		padding:0 1em;
+		text-decoration:none;
+		color:#01224d;
+		background:#FFF;
+	}
+	.mais-noticias h6 a:hover{
+		text-decoration:underline;
+	}
+	.mais-noticias h6 a span{
+		text-align:center;
+		background-color: #01224d;
+		color:#FFF;
+		padding:1px 3px;
+	}
+.mais-informativos{
+	width:25%;
+	height:2em;
+	text-align:center;
+	margin-bottom: 10em;
+	float:right;
+  }
+	.mais-informativos h6{
+		width:200px;
+		height: 0.5em;
+		margin:0 auto;
+		font-family:Arial,Verdana,sans-serif;
+		font-size:1.2em;
+		background-color:#FFF;
+		border-bottom:1px solid #01224d;
+	}
+	.mais-informativos h6 a{
+		padding:0 1em;
+		text-decoration:none;
+		color:#01224d;
+		background:#FFF;
+	}
+	.mais-informativos h6 a:hover{
+		text-decoration:underline;
+	}
+	.mais-informativos h6 a span{
+		text-align:center;
+		background-color: #01224d;
+		color:#FFF;
+		padding:1px 3px;
+	}
+.aniversariantes{
+	width:30%;
+	height:25em;
+	float:left;
+}
+	.aniversariantes header{
+		width:100%;
+		height:3.3em;
+		border-bottom:1px solid #94854d;
+	}
+		.aniversariantes header h1{
+			font-family:'Yanone Kaffeesatz',Arial,Verdana,sans-serif;
+			font-size:2.4em;
+			text-align:left;
+			color:#134172;
+			border-bottom:3px solid #01224d;
+			padding-bottom:0.15em;
+			display:inline;
+		}
+.anvData{
+	padding-top:5%;
+	width:12.30%;
+	float:left;
+	height:20em;	
+}
+	.anvData div{
+		width:100%;
+		padding:0.3em 0;
+		border-width:4px 1px 2px 1px;
+		border-color:#01224d;
+		border-style:solid;
+		border-radius:10% 10%;
+		font-family:Arial,Verdana,sans-serif;
+		font-size:2.4em;
+		text-align:center;
+		border-bottom:3px solid #01224d;
+	}
+.anvData h6{
+	font-family:Arial,Verdana,sans-serif;
+	font-size:1.2em;
+	width:100%;
+	padding:0.2em 0.2em;
+	background-color:#01224d;
+	color:#FFF;
+	text-align:center;
+	border-radius: 10% 10%;
+	margin-top:1em;
+}
+.anvAssociados{
+	width:87.7%;
+	height:20em;
+	padding-top:5%;
+	padding-left:2%;
+	float:right;
+	display: table;
+}
+	.anvAssociados ul{
+		width:100%;
+	}
+	.anvAssociados ul li{
+		list-style:none;
+		height:35px;
+		border-bottom:1px dotted #bebebe;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:1.2em;
+		color:#333;
+		padding-top: 10px;
+	}
+		.anvAssociados ul li img{
+			float:right;
+			margin-left:10px;
+			cursor:pointer;
+		}
+	.anvAssociados ul li:last-child{
+		border-bottom:none;
+	}
+.aniversariantes h5{
+	float:left;
+	font-family:Arial,Verdana,sans-serif;
+	font-size:1.2em;
+	color:#333;
+}
+	.aniversariantes h5:last-child{
+		float:right;
+	}
+	
+.aniversariantes h5 a{
+	color:#333;
+}
+
+.utilidade{
+	width:30%;
+	height:25em;
+	float:left;
+	margin-left:4%;
+}
+	.utilidade header{
+		width:100%;
+		height:3.3em;
+		border-bottom:1px solid #94854d;
+	}
+		.utilidade header h1{
+			font-family:'Yanone Kaffeesatz',Arial,Verdana,sans-serif;
+			font-size:2.4em;
+			text-align:left;
+			color:#134172;
+			border-bottom:3px solid #01224d;
+			padding-bottom:0.15em;
+			display:inline;
+		}
+.utilidade ul{
+	width:100%;
+}
+	.utilidade ul li{
+		list-style:none;
+		height:43px;
+		border-bottom:1px dotted #bebebe;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:1.4em;
+		color:#333;
+		padding-top: 10px;
+	}
+	.utilidade ul li:last-child{
+		border-bottom:none;
+	}
+	.utilidade ul li:first-child{
+		margin-top:5%;
+	}
+		.utilidade ul li img{
+			float:right;
+			padding-bottom:5px;
+		}
+		.utilidade ul li a{
+			padding-top:5px;
+			text-decoration:none;
+			color:#333;
+		}
+		.utilidade ul li a:hover{
+			text-decoration:underline;
+		}
+.enquete{
+    float: right;
+    height: 25em;
+    margin-left: 1.66%;
+    width: 30%;
+	position:relative;
+}
+	.enquete header{
+		width:100%;
+		height:3.3em;
+		border-bottom:1px solid #94854d;
+	}
+		.enquete header h1{
+			font-family:'Yanone Kaffeesatz',Arial,Verdana,sans-serif;
+			font-size:2.4em;
+			text-align:left;
+			color:#134172;
+			border-bottom:3px solid #01224d;
+			padding-bottom:0.15em;
+			display:inline;
+		}
+.enquete p{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.4em;
+	color:#333;
+	padding:5% 0;
+	text-align:justify;
+}
+.enquete span{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.4em;
+	color:#333;
+	line-height:1.5em;
+}
+#link_votarEnquete{
+	background-color:#01224d;
+	border:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.2em;
+	color:#FFF;
+	padding:0.5em 1.5em;
+	bottom:0;
+	position:absolute;
+}
+.tv{
+	width:24%;
+	height:25em;
+	float:right;
+	margin-left:1%;
+	display:none;
+}
+	.tv header{
+		width:100%;
+		height:3.3em;
+		border-bottom:1px solid #94854d;
+	}
+		.tv header h1{
+			font-family:'Yanone Kaffeesatz',Arial,Verdana,sans-serif;
+			font-size:2.4em;
+			text-align:left;
+			color:#134172;
+			border-bottom:3px solid #01224d;
+			padding-bottom:0.15em;
+			display:inline;
+		}
+.tv h2{
+	display:inline;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.4em;
+	color:#333;
+	margin-top:5%;
+	margin-right:0.5em;
+}
+#tvVideos{
+	float:right;
+}
+	.tv h2 a{
+		text-decoration:none;
+		color:#333;
+	}
+	.tv h2 a:hover{
+		text-decoration:underline;
+	}
+.tv div{
+	width:100%;
+}
+	.tv div img{
+		max-width:100%;
+	}
+.convenios{
+    width: 47.83%;
+    height: 24em;
+    float: left;
+    margin-top: 10em;
+    overflow: hidden;
+	}
+	.convenios header{
+		width:100%;
+		height:3.3em;
+		border-bottom:1px solid #94854d;
+		margin-bottom: 2%;
+	}
+		.convenios header h1{
+			font-family:'Yanone Kaffeesatz',Arial,Verdana,sans-serif;
+			font-size:2.4em;
+			text-align:left;
+			color:#134172;
+			border-bottom:3px solid #01224d;
+			padding-bottom:0.15em;
+			display:inline;
+		}
+.convenios ul{
+	float:left;
+}
+.convenios li{
+	margin-top:1%;
+	padding: 0;
+	list-style: none;
+	display:inline-block;
+	margin-right: 1em;
+}
+	.convenios li a {
+		height:6em;
+		border:1px solid #f0f0f0;
+		border-radius: 10% 10%;
+		padding: 5px 2px;
+		float:left;
+		background-color:#FFF;
+		margin-right:1%;
+		color: #fff;
+	}
+	.convenios li a img{
+		max-height:5em;
+		max-width: 13em;
+	}
+.facebook{
+	width:48.91%;
+	height:24em;
+	float:right;
+	margin-top:10em;
+	display:table;
+}
+	.facebook header{
+		width:100%;
+		height:3.3em;
+		border-bottom:1px solid #94854d;
+		margin-bottom: 2%;
+	}
+		.facebook header h1{
+			font-family:'Yanone Kaffeesatz',Arial,Verdana,sans-serif;
+			font-size:2.4em;
+			text-align:left;
+			color:#134172;
+			border-bottom:3px solid #01224d;
+			padding-bottom:0.15em;
+			display:inline;
+		}
+
+/* ./CORPO DO SITE */
+
+@media (max-width: 1000px){
+figure img {
+    width: 100%;
+    height: auto;
+}
+}
+
+@media (max-width: 880px){
+
+figure{
+	position:relative;
+	width:65.34%;
+	float:left;
+}
+
+figure img {
+    width: 100%;
+    height: auto;
+}
+figcaption{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 1.6em;
+	color: #FFF;
+	bottom:0.1em;
+	padding:0.8em;
+	position:absolute;
+	width:100%;
+	background:#000;
+	background-color:rgba(0,0,0, 0.5);
+	color:#FFF;
+}
+	figure figcaption small{
+		padding-top:2em;
+	}
+		figure figcaption small a{
+			text-decoration:none;
+			font-size:.8em;
+			color:#FFF;
+			padding-top:1em;
+		}
+		figure figcaption small a:hover{
+			text-decoration:underline;
+		}
+		
+.noticias{
+	width:33%;
+	height:34em;
+	float:left;
+	margin-left:1.66%;
+}
+.cntNoticia{
+	width:100%;
+	height:8.4em;
+	max-height:8.4em;
+	box-sizing:border-box;
+	border-bottom:1px dotted #bebebe;
+	margin-bottom:1%;
+	padding-top:0.7em;
+}
+	.cntNoticia:last-child{
+		border:none;
+	}
+	.cntNoticia:first-child{
+		padding-top:0;
+	}
+	 .cntNoticia .cntImg{
+		width:31.66%;
+		float:left;
+		margin-right:2%;
+	}
+	.cntImg img{
+		max-width:100%;
+	}
+	.cntNoticia .cntH2{
+		width:66.34%;
+		float:right;
+		height:8.4em;
+		position:relative;
+	}
+.cntH2 h2 a{
+	text-decoration:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.4em;
+	font-weight:bold;
+	color:#01224d;
+}
+.cntH2 h2 a:hover{
+	text-decoration:underline;
+}
+	.cntH2 small{
+		bottom:0;
+		position:absolute;
+		margin-bottom:1.6em;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:1em;
+		font-style:italic;
+		color:#333;
+	}
+.mural{
+	width: 100%;
+	height: 37em;
+	float: left;
+	margin-left: 0;
+	clear: both;
+	margin-top: 9em;
+	margin-bottom: 5em;
+}
+	.mural header{
+		width:100%;
+		height:3.3em;
+		border-bottom:1px solid #94854d;
+	}
+		.mural header h1{
+			font-family:'Yanone Kaffeesatz',Arial,Verdana,sans-serif;
+			font-size:2.4em;
+			text-align:left;
+			color:#134172;
+			border-bottom:3px solid #01224d;
+			padding-bottom:0.15em;
+			display:inline;
+		}
+		
+.mural ul{
+	width:100%;
+	height:3em;
+	padding-top:3%;
+}
+	.mural ul li{
+		list-style:none;
+		border-bottom:1px dotted #bebebe;
+		padding-bottom:2%;
+		margin-top:2%;
+	}
+	.mural ul li:last-child{
+		border-bottom:none;
+	}
+		.mural ul li a{
+			font-family:Arial, Helvetica, sans-serif;
+			font-size:1.4em;
+			color:#333;
+			text-decoration:none;
+		}
+		.mural ul li a:hover{
+			color:#333;
+			text-decoration:underline;
+		}
+		
+.mais-informativos{
+	width: 100%;
+  	height: 2em;
+  	text-align: center;
+  	margin-bottom: 10em;
+	display:block;
+  }
+.mais-noticias{
+	height: 2em;
+	text-align: center;
+	margin-top: -63em;
+	display: block;
+	float: right;
+	width: 33%;
+}
+	
+	
+.aniversariantes{
+	height: 25em;
+	float: left;
+	width: 45%;
+	margin-top: -5em;
+}
+	.aniversariantes header{
+		width:100%;
+		height:3.3em;
+		border-bottom:1px solid #94854d;
+	}
+		.aniversariantes header h1{
+			font-family:'Yanone Kaffeesatz',Arial,Verdana,sans-serif;
+			font-size:2.4em;
+			text-align:left;
+			color:#134172;
+			border-bottom:3px solid #01224d;
+			padding-bottom:0.15em;
+			display:inline;
+		}
+.anvData{
+	padding-top:5%;
+	width:12.30%;
+	float:left;
+	height:20em;	
+}
+	.anvData div{
+		width:100%;
+		padding:0.3em 0;
+		border-width:4px 1px 2px 1px;
+		border-color:#01224d;
+		border-style:solid;
+		border-radius:10% 10%;
+		font-family:Arial,Verdana,sans-serif;
+		font-size:2.4em;
+		text-align:center;
+		border-bottom:3px solid #01224d;
+	}
+.anvData h6{
+	font-family:Arial,Verdana,sans-serif;
+	font-size:1.2em;
+	width:100%;
+	padding:0.2em 0.2em;
+	background-color:#01224d;
+	color:#FFF;
+	text-align:center;
+	border-radius: 10% 10%;
+	margin-top:1em;
+}
+.anvAssociados{
+	width:87.7%;
+	height:20em;
+	padding-top:5%;
+	padding-left:2%;
+	float:right;
+}
+	.anvAssociados ul{
+		width:100%;
+	}
+	.anvAssociados ul li{
+		list-style:none;
+		height:35px;
+		border-bottom:1px dotted #bebebe;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:1.2em;
+		color:#333;
+		padding-top: 10px;
+	}
+		.anvAssociados ul li img{
+			float:right;
+			margin-left:10px;
+			cursor:pointer;
+		}
+	.anvAssociados ul li:last-child{
+		border-bottom:none;
+	}
+.aniversariantes h5{
+	float:left;
+	font-family:Arial,Verdana,sans-serif;
+	font-size:1.2em;
+	color:#333;
+}
+	.aniversariantes h5:last-child{
+		float:right;
+	}
+	
+.utilidade{
+	height: 25em;
+	margin-left: 4%;
+	width: 45%;
+	float: right;
+	margin-top: -5em;
+}
+	.utilidade header{
+		width:100%;
+		height:3.3em;
+		border-bottom:1px solid #94854d;
+	}
+		.utilidade header h1{
+			font-family:'Yanone Kaffeesatz',Arial,Verdana,sans-serif;
+			font-size:2.4em;
+			text-align:left;
+			color:#134172;
+			border-bottom:3px solid #01224d;
+			padding-bottom:0.15em;
+			display:inline;
+		}
+.utilidade ul{
+	width:100%;
+}
+	.utilidade ul li{
+		list-style:none;
+		height:43px;
+		border-bottom:1px dotted #bebebe;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:1.4em;
+		color:#333;
+		padding-top: 10px;
+	}
+	.utilidade ul li:last-child{
+		border-bottom:none;
+	}
+	.utilidade ul li:first-child{
+		margin-top:5%;
+	}
+		.utilidade ul li img{
+			float:right;
+			padding-bottom:5px;
+		}
+		.utilidade ul li a{
+			padding-top:5px;
+			text-decoration:none;
+			color:#333;
+		}
+		.utilidade ul li a:hover{
+			text-decoration:underline;
+		}
+.enquete{
+	height: 25em;
+	margin-left: 0px;
+	clear: both;
+	position: relative;
+	float: left;
+	width: 45%;
+	margin-top: 10em;
+}
+	.enquete header{
+		width:100%;
+		height:3.3em;
+		border-bottom:1px solid #94854d;
+	}
+		.enquete header h1{
+			font-family:'Yanone Kaffeesatz',Arial,Verdana,sans-serif;
+			font-size:2.4em;
+			text-align:left;
+			color:#134172;
+			border-bottom:3px solid #01224d;
+			padding-bottom:0.15em;
+			display:inline;
+		}
+.enquete p{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.4em;
+	color:#333;
+	padding:5% 0;
+	text-align:justify;
+}
+.enquete span{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.4em;
+	color:#333;
+	line-height:1.5em;
+}
+.enquete input[type="submit"]{
+	background-color:#01224d;
+	border:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.2em;
+	color:#FFF;
+	padding:0.5em 1.5em;
+	bottom:0;
+	position:absolute;
+}
+.tv{
+	height: 25em;
+	float: right;
+	margin-left: 1%;
+	width: 45%;
+	margin-top: 6em;
+}
+	.tv header{
+		width:100%;
+		height:3.3em;
+		border-bottom:1px solid #94854d;
+	}
+		.tv header h1{
+			font-family:'Yanone Kaffeesatz',Arial,Verdana,sans-serif;
+			font-size:2.4em;
+			text-align:left;
+			color:#134172;
+			border-bottom:3px solid #01224d;
+			padding-bottom:0.15em;
+			display:inline;
+		}
+.tv h2{
+	display:inline;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.4em;
+	color:#333;
+	margin-top:5%;
+	margin-right:0.5em;
+}
+#tvVideos{
+	float:right;
+}
+	.tv h2 a{
+		text-decoration:none;
+		color:#333;
+	}
+	.tv h2 a:hover{
+		text-decoration:underline;
+	}
+.tv div{
+	width:100%;
+}
+	.tv div img{
+		max-width:100%;
+	}
+	
+.convenios {
+  width: 47.83%;
+  height: 24em;
+  float: right;
+  margin-top: 10em;
+  display: table;
+}
+
+.facebook {
+  width: 100%;
+  height: 24em;
+  float: right;
+  margin-top: 10em;
+  display: table;
+}	
+.telefones-enderecos{
+	width:100%;
+	height:31em;
+	float:right;
+}
+
+.footer-nav{
+	width:12%;
+	height:31em;
+	float:left;
+	display:none;
+}
+.links-uteis{
+	width:16.66%;
+	height:31em;
+	float:left;
+	margin-left:10%;
+	display:none;
+}
+		
+}
+
+@media (max-width: 640px){
+	figure {
+    position: relative;
+    float: left;
+    width: 100%;
+}
+figure img {
+    width: 100%;
+    height: auto;
+	min-height:0;
+}
+.noticias{
+	width: 100%;
+	height: 34em;
+	float: left;
+	margin-left: 1.66%;
+	clear: both;
+	margin-top: 5em;
+}
+
+	.cntNoticia .cntH2{
+		float: left;
+		height: 8.4em;
+		position: relative;
+		width: 70%;
+	}
+	
+	 .cntNoticia .cntImg{
+		float: left;
+		margin-right: 2%;
+		width: 20%;
+	}
+	
+.mais-noticias{
+	height: 2em;
+	text-align: center;
+	margin-top: -60em;
+	display: block;
+	width: 100%;
+}
+.mural{
+	width: 100%;
+	height: 37em;
+	float: left;
+	margin-left: 0;
+	clear: both;
+	margin-top: 12em;
+	margin-bottom: 2em;
+}
+figcaption{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 1.6em;
+	color: #FFF;
+	bottom:0.1em;
+	padding:0.8em;
+	position:absolute;
+	width:100%;
+	background:#000;
+	background-color:rgba(0,0,0, 0.5);
+	color:#FFF;
+}
+.utilidade{
+	height: 25em;
+	margin-top: 10em;
+	width: 100%;
+}
+.aniversariantes{
+	height: 25em;
+	margin-top: -5em;
+	width: 100%;
+}
+.enquete{
+	height: 25em;
+	margin-left: 0px;
+	clear: both;
+	position: relative;
+	width: 100%;
+	margin-top: 10em;
+}
+.tv{
+	height: 25em;
+	float: right;
+	margin-left: 1%;
+	width: 100%;
+	margin-top: 10em;
+}
+.convenios{
+	width: 100%;
+	height: 24em;
+	margin: 10em 0 0 0;
+	display: table;
+}
+.facebook{
+	height: 24em;
+	margin-top: 10em;
+	width: 100%;
+	display: table;
+}
+}

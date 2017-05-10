@@ -1,0 +1,12 @@
+<font color='#00458A'><b>Recuperação de senha</b></font>
+<hr width='300px' align='left' />
+Olá {nomeAnc}. 
+
+Essa é uma mensagem automática de obtenção de senha para acesso a Área do Associado no site da AMEPE.
+
+Sua senha é <font color='#0066DD'><strong>{senha}</strong></font>.
+
+Para maior segurança, pedimos que acesse sua <a href='{linkAreaAss}' target='_blank'>Área de Associado</a> e altere sua senha (no menu 'Alterar Senha de Acesso').
+
+<hr/>
+<font size='-1'><a href='http://www.amepe.com.br' target='_blank'><font color='#0066CC'><b>www.amepe.com.br</b></a></font></font>     	

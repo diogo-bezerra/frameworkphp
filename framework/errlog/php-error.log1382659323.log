@@ -1,0 +1,152 @@
+Erro: 49259297 em 24/10/2013 - 14:08:34
+[Tipo de erro Desconhecido] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\VsHome.class.php na linha 48
+Creating default object from empty value
+
+Erro: 86543979 em 24/10/2013 - 14:55:27
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php na linha 149
+include_once(Z:\Desenvolvimento\web\underline/app.controle/CtrlHome.class.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory
+
+Erro: 18605271 em 24/10/2013 - 15:20:34
+[E_NOTICE] Arquivo: Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php na linha 73
+Undefined index: CtrlHome
+
+Erro: 83639625 em 24/10/2013 - 15:21:13
+[E_NOTICE] Arquivo: Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php na linha 73
+Undefined index: CtrlHome
+
+Erro: 52610827 em 24/10/2013 - 15:21:15
+[E_NOTICE] Arquivo: Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php na linha 73
+Undefined index: CtrlHome
+
+Erro: 89667438 em 24/10/2013 - 15:21:16
+[E_NOTICE] Arquivo: Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php na linha 73
+Undefined index: CtrlHome
+
+Erro: 05346377 em 24/10/2013 - 17:42:16
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php na linha 78
+scandir(Z:\Desenvolvimento\web\underline/*.php,Z:\Desenvolvimento\web\underline/*.php) [<a href='function.scandir'>function.scandir</a>]: No such file or directory
+
+Erro: 08504180 em 24/10/2013 - 17:53:26
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php na linha 78
+scandir(../../*.class.php,../../*.class.php) [<a href='function.scandir'>function.scandir</a>]: No such file or directory
+
+Erro: 24013442 em 24/10/2013 - 17:53:35
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php na linha 78
+scandir(./*.class.php,./*.class.php) [<a href='function.scandir'>function.scandir</a>]: No such file or directory
+
+Erro: 56460299 em 24/10/2013 - 18:38:12
+[ERRO FATAL] Arquivo: Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php na linha 77
+Cannot redeclare getArqDir() (previously declared in Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:77)
+
+Erro: 03115881 em 24/10/2013 - 18:38:23
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php na linha 84
+Invalid argument supplied for foreach()
+
+Erro: 11367698 em 24/10/2013 - 19:26:51
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\AppView.class.php na linha 7
+Cannot modify header information - headers already sent by (output started at Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:99)
+
+Erro: 17686690 em 24/10/2013 - 19:30:14
+[ERRO FATAL] Arquivo: Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php na linha 104
+Call to a member function getPath() on a non-object
+
+Erro: 72183412 em 24/10/2013 - 19:31:20
+[E_NOTICE] Arquivo: Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php na linha 105
+Undefined variable: itens
+
+Erro: 21062617 em 24/10/2013 - 19:45:33
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php na linha 100
+scandir(Z:\Desenvolvimento\web\underline/app.modelo//*.php,Z:\Desenvolvimento\web\underline/app.modelo//*.php) [<a href='function.scandir'>function.scandir</a>]: No such file or directory
+
+Erro: 93476748 em 24/10/2013 - 19:45:45
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php na linha 100
+scandir(Z:\Desenvolvimento\web\underline/app.modelo/*.php,Z:\Desenvolvimento\web\underline/app.modelo/*.php) [<a href='function.scandir'>function.scandir</a>]: No such file or directory
+
+Erro: 59420862 em 24/10/2013 - 19:48:06
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php na linha 100
+scandir(Z:\Desenvolvimento\web\underline/app.modelo/*.php,Z:\Desenvolvimento\web\underline/app.modelo/*.php) [<a href='function.scandir'>function.scandir</a>]: No such file or directory
+
+Erro: 77117705 em 24/10/2013 - 20:00:56
+[E_NOTICE] Arquivo: Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php na linha 102
+Undefined variable: d
+
+Erro: 56756550 em 24/10/2013 - 20:02:24
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\AppView.class.php na linha 7
+Cannot modify header information - headers already sent by (output started at Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:109)
+
+Erro: 61619629 em 24/10/2013 - 20:03:41
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\AppView.class.php na linha 7
+Cannot modify header information - headers already sent by (output started at Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:109)
+
+Erro: 64339359 em 24/10/2013 - 20:03:59
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\AppView.class.php na linha 7
+Cannot modify header information - headers already sent by (output started at Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:109)
+
+Erro: 79526794 em 24/10/2013 - 20:06:10
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\AppView.class.php na linha 7
+Cannot modify header information - headers already sent by (output started at Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:95)
+
+Erro: 17734850 em 24/10/2013 - 20:06:39
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\AppView.class.php na linha 7
+Cannot modify header information - headers already sent by (output started at Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:95)
+
+Erro: 46394663 em 24/10/2013 - 20:08:33
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\AppView.class.php na linha 7
+Cannot modify header information - headers already sent by (output started at Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:101)
+
+Erro: 37076205 em 24/10/2013 - 20:09:11
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\AppView.class.php na linha 7
+Cannot modify header information - headers already sent by (output started at Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:101)
+
+Erro: 57766658 em 24/10/2013 - 20:09:36
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\AppView.class.php na linha 7
+Cannot modify header information - headers already sent by (output started at Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:95)
+
+Erro: 32622051 em 24/10/2013 - 20:10:18
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\AppView.class.php na linha 7
+Cannot modify header information - headers already sent by (output started at Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:101)
+
+Erro: 78258766 em 24/10/2013 - 20:10:54
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\AppView.class.php na linha 7
+Cannot modify header information - headers already sent by (output started at Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:101)
+
+Erro: 60622203 em 24/10/2013 - 20:12:37
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\AppView.class.php na linha 7
+Cannot modify header information - headers already sent by (output started at Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:96)
+
+Erro: 00209136 em 24/10/2013 - 20:12:38
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\AppView.class.php na linha 7
+Cannot modify header information - headers already sent by (output started at Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:96)
+
+Erro: 72109018 em 24/10/2013 - 20:12:41
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\AppView.class.php na linha 7
+Cannot modify header information - headers already sent by (output started at Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:96)
+
+Erro: 17248166 em 24/10/2013 - 20:13:55
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\AppView.class.php na linha 7
+Cannot modify header information - headers already sent by (output started at Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:96)
+
+Erro: 27059280 em 24/10/2013 - 20:13:59
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\AppView.class.php na linha 7
+Cannot modify header information - headers already sent by (output started at Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:96)
+
+Erro: 26969883 em 24/10/2013 - 20:14:01
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\app.visual\AppView.class.php na linha 7
+Cannot modify header information - headers already sent by (output started at Z:\Desenvolvimento\web\Underline\app.controle\lib\_autoLoadClass.php:96)
+
+Erro: 37199375 em 24/10/2013 - 20:59:41
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\lib\Global.class.php na linha 121
+include_once(config/setManutencao.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory
+
+Erro: 70692674 em 24/10/2013 - 21:01:34
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\lib\Global.class.php na linha 121
+include_once(config/setManutencao.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory
+
+Erro: 56542355 em 24/10/2013 - 21:01:53
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\lib\Global.class.php na linha 121
+include_once(../../../config/setManutencao.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory
+
+Erro: 16308285 em 24/10/2013 - 21:02:03
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\lib\Global.class.php na linha 121
+include_once(../config/setManutencao.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory
+

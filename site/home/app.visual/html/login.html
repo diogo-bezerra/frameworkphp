@@ -1,0 +1,47 @@
+﻿<section id="section_login" class="section_titulo_pagina titulo">
+	<header>
+		<h1>Login &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</h1>
+	</header>
+	<br /><br />
+	<section id="section_aviso">
+		<!-- Recebe avisos de login dinamicamente -->
+	</section>
+	<section id="section_form">
+		<form id="form_login" name="form_login" method="post" onsubmit="return false">
+			<table id="tb_login" border="0" align="center">
+				<tr>
+					<td align="right">
+						CPF:
+					</td>
+					<td align="left">
+						<input id="input_login" name="input_login" type="text" value="19276745491" onkeypress="return blockCharInput(event, 0);" />
+						(apenas números)
+					</td>
+				</tr>
+				<tr>
+					<td align="right">
+						Senha:
+					</td>
+					<td align="left">
+						<input id="input_senha" name="input_senha" type="password" value="ageamepe" onkeypress="return blockCharInput(event, 3);" />
+						<a href="recuperaSenha.php"><u>Esqueci minha senha</u></a>
+					</td>
+				</tr>
+				<tr>
+					<td align="left"></td>
+					<td align="center">
+						<br /> 
+						<input id="targetUrl" name="targetUrl" type="hidden" />
+						<button id="bt_acessar" name="bt_acessar" class="bt_custom" >Acessar</button> 
+					</td>
+				</tr>
+			</table>
+		</form>
+		<div align="center" id="div_carrega_login">
+		
+		</div>
+	</section>
+</section>
+
+
+

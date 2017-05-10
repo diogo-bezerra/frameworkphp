@@ -1,0 +1,9 @@
+.inputCustom {
+    border:2px solid #666666;
+    border-radius: 6px;
+    background-image:url(../imagens/fundo_input_custom.jpg);
+    -moz-border-radius: 6px; /* Firefox */
+    -webkit-border-radius: 6px; /* Safari and Chrome */
+    padding: 3px;
+    padding-left: 5px;
+}

@@ -1,0 +1,4 @@
+Erro: 08979453 em 24/10/2013 - 21:02:16
+[E_WARNING] Arquivo: Z:\Desenvolvimento\web\Underline\lib\Global.class.php na linha 121
+include_once(config/setManutencao.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory
+

@@ -1,0 +1,13 @@
+{logo}
+Essa é uma mensagem enviada pelo sistema de hospedagem AMEPE.
+
+Segue abaixo o link para imprimir o documento de autorização referente a hospedagem {idHosp}.
+
+<a href="{linkAut}">Imprimir Autorização</a>
+
+Você também pode imprimir essa autorização acessando a Área do Associado em <a href="http://www.amepe.com.br">www.amepe.com.br</a>
+
+<hr />
+<a href="www.amepe.com.br">www.amepe.com.br</a>
+<br />
+SEDE ADMINISTRATIVA: (81) 3224-3251

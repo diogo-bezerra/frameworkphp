@@ -1,0 +1,13 @@
+{logo}
+
+<font color='#00458A'><b>Reserva de hospedagem</b></font>
+<hr width='300px' align='left' />
+
+Olá {nome}. Essa é uma mensagem automática do sistema de reserva de hospedagem da AMEPE.
+
+Informamos que o pedido de reserva de hospedagem {idHosp} para o período {data} foi cancelado.
+
+Para mais informações por favor entre em contato com a sede administrativa (81) 3224.3251
+
+<hr/>
+<font size='-1'><a href='http://www.amepe.com.br' target='_blank'><font color='#0066CC'><b>www.amepe.com.br</b></font></a></font>       	

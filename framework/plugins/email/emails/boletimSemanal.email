@@ -1,0 +1,18 @@
+<div style="width: 800px; height: auto; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif"><div style="width: 800px; height: 146px;"><img src="http://www.amepe.com.br/anexos/topBoletimSemanal.jpg" align="Boletim Semanal AMEPE" title="Boletim Semanal AMEPE"></div><div style="width: 100%; text-align: center; font-size: 12px; color: #333; margin-bottom: 20px" id="dadosBoletim">Boletim semanal da Associação dos Magistrados de Pernambuco | {semana}ª Semana de {mes} | {ano}</div>
+</pre>
+{noticias}
+</div>
+
+<br /><a href="{url}/convenios/todos" style="text-decoration: underline; color:#004E9C; font-weight: bold">Prezado Associado, confira no site da AMEPE os conv&ecirc;nios firmados e desfrute de descontos especiais!</a>
+<div style="width: 90%; margin-top: 150px; background-color: #FFF; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 10px; color: #01224d; padding: 10px; text-align: center; border-top: 1px dashed #D8D8D8;">
+    <div style="font-size: 12px; margin-bottom: 5px;"><br><b>Associação dos Magistrados do Estado de Pernambuco - AMEPE</b></div>
+            SEDE ADMINISTRATIVA: Rua do imperador, 207, CEP:50010-240, Santo Antônio, Recife-PE / Fone: (81) 3224.3251 Fax: (81) 3224.6977 <br />
+            SEDE APOIO: Av. Desembargador Guerra Barreto, S/N - Joana Bezerra. Recife - PE / Fone: (81) 3181-0459 / (81) 3181-0460 / Fax: (81) 3222.7379 <br />
+            SEDE SOCIAL: Rua Pe. Nestor Alencar, 6501, CEP:54460-020, Candeias, Jaboatão dos Guararapes-PE / Fone: (81) 3469.7071 <br />
+            SEDE CAMPESTRE: Rua Gov. Eraldo Gueiros Leite, 265, Lot. Alpes Suíços, CEP:55640-000, Gravatá-PE / Fone: (81) 3533.1149 <br />
+    <div style="margin-top: 10px; padding: 10px 0">
+        <span style="color: darkred; font-weight: bold;"> Atenção:</span>  Esta é uma mensagem automática, não é necessário respondê-la.<br />
+        Se você não deseja mais receber nossos e-mails, <a id="cancel" href="http://amepe.com.br/sgd/external-access/unsubscribe/{unsubCod}" style="color: #01224d; text-decoration: none;"><b>cancele sua inscrição aqui.</b></a>
+        <span style="color: #a6a6a6"><br>Desenvolvido pelo setor de infomática da AMEPE</span>
+    </div>
+</div>
